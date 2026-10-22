@@ -1,0 +1,8 @@
+{
+  "offline_tests": 6,
+  "passed": 6,
+  "python_files_parsed": 28,
+  "baseline_metadata_hashes_verified": true,
+  "live_postgres_tested_here": false,
+  "live_docker_airflow_tested_here": false
+}

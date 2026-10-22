@@ -1,0 +1,12 @@
+{
+  "airflow_version": "3.2.2",
+  "dag_import": "passed",
+  "task_count": 3,
+  "retries": 1,
+  "retry_delay_seconds": 30,
+  "first_attempt_failure": "passed",
+  "second_attempt_success": "passed",
+  "changed_snapshot_refused": true,
+  "runtime_task_try_number_field": "confirmed",
+  "live_scheduler_automatic_retry_tested": false
+}

@@ -1,0 +1,14 @@
+{
+  "total_products": 1638,
+  "unique_asins": 1638,
+  "simulation_scope_counts": {
+    "include": 1623,
+    "hold": 4,
+    "exclude": 11
+  },
+  "missing_source_prices": 218,
+  "missing_source_ratings": 21,
+  "source_values_preserved": true,
+  "database_modified": false,
+  "taxonomy": "Project categories based on titles; not authoritative Amazon metadata"
+}

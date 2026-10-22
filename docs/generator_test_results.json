@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "customers": 100000,
+  "orders": 400000,
+  "order_items": 1000000,
+  "payments": 400000,
+  "order_status_counts": {
+    "completed": 360215,
+    "cancelled": 23744,
+    "payment_failed": 16041
+  },
+  "catalog_products": 1623,
+  "products_used": 1623,
+  "foreign_keys_valid": true,
+  "amounts_reconciled": true,
+  "hashes_verified": true,
+  "source_snapshot_preserved": true,
+  "database_modified": false,
+  "note": "Local validation of generator at full default scale; not a test against the user PostgreSQL database.",
+  "dataset_size_bytes": 519493260
+}

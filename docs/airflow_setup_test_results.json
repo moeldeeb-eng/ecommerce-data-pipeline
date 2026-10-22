@@ -1,0 +1,19 @@
+{
+  "airflow_version": "3.2.2",
+  "dag_import_python": "3.12",
+  "docker_target_python": "3.11",
+  "task_count": 4,
+  "dag_import_errors": 0,
+  "python311_dependency_resolution": "passed",
+  "python312_installed_dependency_compatibility": "passed",
+  "official_docker_image_tag_exists": true,
+  "compose_schema_validation": "passed",
+  "business_postgres_definition_preserved": true,
+  "preparation_rerun_preserves_credentials_and_project_config": true,
+  "simple_auth_manager_password_file_test": "passed",
+  "snapshot_reconciliation_and_refusal_checks": "passed",
+  "read_only_connection_options": "checked",
+  "docker_build_and_start_tested": false,
+  "live_project_database_tested": false,
+  "constraints_sha256": "f0bfff7bc49519f65bd5921e5229b36a7c0e2f57ae78e4789dd9b6ab1f56ba66"
+}

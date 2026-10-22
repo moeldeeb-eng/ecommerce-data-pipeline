@@ -1,0 +1,19 @@
+{
+  "fixture_customers": 1000,
+  "fixture_orders": 4000,
+  "fixture_lines": 10000,
+  "offsets": {
+    "customers": 100000,
+    "orders": 400000,
+    "payments": 400000
+  },
+  "file_validation": "passed",
+  "disjoint_keys": true,
+  "newer_event_times": true,
+  "same_seed_hash_reproducibility": true,
+  "no_overwrite": true,
+  "corrupt_offset_refused": true,
+  "source_snapshot_preserved": true,
+  "sql_syntax": "passed",
+  "live_database_reader_tested": false
+}

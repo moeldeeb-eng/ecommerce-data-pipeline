@@ -1,0 +1,28 @@
+{
+  "total_products": 1638,
+  "unique_asins": 1638,
+  "missing_prices": 218,
+  "missing_ratings": 21,
+  "suggested_scope_counts": {
+    "include": 1487,
+    "review": 141,
+    "exclude": 10
+  },
+  "suggested_category_counts": {
+    "Headphones and earpieces": 23,
+    "Keyboards": 307,
+    "Headsets": 367,
+    "Mice and trackballs": 409,
+    "Webcams": 270,
+    "Conference cameras": 100,
+    "Device bundle or mixed title": 104,
+    "Unclassified": 11,
+    "Keypads": 11,
+    "Accessory or bundle": 23,
+    "Outside core scope": 10,
+    "Earbuds or earphones": 3
+  },
+  "method": "Conservative title-based suggestions; not authoritative Amazon category metadata",
+  "prices_modified": false,
+  "database_modified": false
+}

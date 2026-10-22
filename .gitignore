@@ -1,0 +1,13 @@
+.venv/
+.env
+*.env
+!.env.example
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+data/rejected/
+logs/
+airflow/config/
+airflow/logs/
+.pytest_cache/

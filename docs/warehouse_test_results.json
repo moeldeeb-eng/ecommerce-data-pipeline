@@ -1,0 +1,19 @@
+{
+  "sql_engine": "PGlite PostgreSQL",
+  "fixture_orders": 3,
+  "fixture_lines": 7,
+  "first_build": "passed",
+  "repeat_rows_added": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "revenue_reconciled": true,
+  "monthly_view_reconciled": true,
+  "changed_dimension_detected": true,
+  "invalid_realized_revenue_rejected": true,
+  "invalid_foreign_key_rejected": true,
+  "python_orchestration_test_double": "passed",
+  "full_million_row_warehouse_benchmark": false
+}

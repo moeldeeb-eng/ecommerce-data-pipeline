@@ -1,0 +1,7 @@
+# Versions resolved by the included official Airflow 3.2.2 / Python 3.11 constraints.
+psycopg[binary]==3.3.6
+psycopg2-binary
+python-dotenv
+pandas
+requests
+beautifulsoup4

@@ -1,0 +1,22 @@
+{
+  "fixture_lines": 10000,
+  "pandas_row_derivations": "passed",
+  "order_customer_product_joins": "passed",
+  "artifact_reproduction": "passed",
+  "load_command_order": "passed",
+  "typed_warehouse_row_signature": "passed",
+  "corrupt_warehouse_measure_refused": true,
+  "changed_artifact_blocks_loading": true,
+  "batch_realized_item_revenue_egp": "40334496.40",
+  "live_airflow_task_execution": false,
+  "airflow_version": "3.2.2",
+  "dag_import_errors": 0,
+  "dag_task_order": [
+    "extract",
+    "validate",
+    "transform",
+    "load",
+    "quality_check"
+  ],
+  "manual_only": true
+}

@@ -1,0 +1,58 @@
+{
+  "status": "complete",
+  "generator_version": "1.0.0",
+  "seed": 42,
+  "run_id": "store_v1",
+  "expected_counts": {
+    "customers": 100000,
+    "orders": 400000,
+    "order_items": 1000000,
+    "payments": 400000,
+    "products": 1623
+  },
+  "source_catalog_sha256": "d6b8443c2bbd9f7ebf578878c8d05897da46098595afd4f75d4ed03e561c0c48",
+  "start_utc": "2025-01-01T00:00:00Z",
+  "end_utc": "2026-10-21T23:00:00Z",
+  "anchor_method_counts": {
+    "observed_snapshot_anchor": 1409,
+    "category_median_anchor": 213,
+    "explicit_project_fallback": 1
+  },
+  "explicit_fallback_egp": {
+    "3D input controllers": "5000.00"
+  },
+  "assumptions": [
+    "All customers, orders, payments and sale prices are fictional.",
+    "Snapshot catalog prices are simulation anchors, not historical Amazon prices.",
+    "Uniform product and date sampling; proportions are arbitrary project assumptions.",
+    "Completed orders count as realized simulated sales; cancelled/failed orders do not.",
+    "No returns, partial payments, tax breakdown or real payment processing modeled.",
+    "EGP amounts use integer cents, half-up rounding; shipping is order-level only."
+  ],
+  "files": {
+    "catalog_snapshot.csv": {
+      "sha256": "d6b8443c2bbd9f7ebf578878c8d05897da46098595afd4f75d4ed03e561c0c48",
+      "bytes": 752331
+    },
+    "customers.csv": {
+      "sha256": "01ae0e6d17a69fa0780322820cbef5b0077b60e9ed5de00e0d0e3cd6531cfb40",
+      "bytes": 11113279
+    },
+    "order_items.csv": {
+      "sha256": "860e54c9cd76c3aae6ddb959fcb9f1981bdff79b3cc13e1a9f010d35996d07fc",
+      "bytes": 112858884
+    },
+    "orders.csv": {
+      "sha256": "7af044655e763f5d79a69f8ba683152c8c2762e2f26984a3e3648768c1e030af",
+      "bytes": 40784048
+    },
+    "payments.jsonl": {
+      "sha256": "5fafe0c122ee3c9dda8f494c6dd75a5c5794592ea3a4ebed62796e27c953a31e",
+      "bytes": 107177766
+    },
+    "product_price_anchors.csv": {
+      "sha256": "03586a8279268f4863f66ddd4cd506ac44ba5706da348bccb5c2b5d524f09006",
+      "bytes": 126991
+    }
+  }
+}

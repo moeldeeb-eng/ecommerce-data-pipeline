@@ -1,0 +1,1624 @@
+asin,category,source_price,source_currency,anchor_price,anchor_currency,anchor_method,is_synthetic_anchor
+B00004SY4H,Headphones and earpieces,15489.21,EGP,15489.21,EGP,observed_snapshot_anchor,true
+B0000642RX,Keyboards,15163.65,EGP,15163.65,EGP,observed_snapshot_anchor,true
+B000A6PPOK,Keyboards,21737.28,EGP,21737.28,EGP,observed_snapshot_anchor,true
+B000UXZQ42,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0011UB9CQ,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B001DHECXA,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B00206WJ42,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B002MMY4WY,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B002OOWB3O,Mice and trackballs,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B003ELVLKU,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B003L62T7W,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B003NR57BY,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B003PAIV2Q,Webcams,2119.11,EGP,2119.11,EGP,observed_snapshot_anchor,true
+B003PBZNF8,Mice and trackballs,6521.46,EGP,6521.46,EGP,observed_snapshot_anchor,true
+B003TY2O76,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0042X8NT6,Webcams,,,2173.46,EGP,category_median_anchor,true
+B004FHO5Y6,Webcams,,,2173.46,EGP,category_median_anchor,true
+B004N627KS,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B004XMAL00,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B004YAVF8I,Mice and trackballs,807.10,EGP,807.10,EGP,observed_snapshot_anchor,true
+B00552K0GM,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B005EJH6RW,Mice and trackballs,527.20,EGP,527.20,EGP,observed_snapshot_anchor,true
+B005EJH6Z4,Mice and trackballs,733.72,EGP,733.72,EGP,observed_snapshot_anchor,true
+B00605BYCW,Webcams,2499.01,EGP,2499.01,EGP,observed_snapshot_anchor,true
+B006JH8T3S,Webcams,3652.32,EGP,3652.32,EGP,observed_snapshot_anchor,true
+B007T1CSFS,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0080IA1J4,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B00829D0GM,Webcams,3527.32,EGP,3527.32,EGP,observed_snapshot_anchor,true
+B0083I7Y8W,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0089ZLENA,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B008YX4YR0,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0091F8F7A,Headsets,,,2322.92,EGP,category_median_anchor,true
+B009CPC6QA,Webcams,,,2173.46,EGP,category_median_anchor,true
+B00AAS888S,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00ADBY98A,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00B7GV802,Keyboard and mouse bundles,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B00CES5A60,Webcams,3799.06,EGP,3799.06,EGP,observed_snapshot_anchor,true
+B00CIZPXRU,Keyboard and mouse bundles,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B00CMALD3E,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B00CRJWW2G,Webcams,,,2173.46,EGP,category_median_anchor,true
+B00D68ZVY8,Mice and trackballs,4119.73,EGP,4119.73,EGP,observed_snapshot_anchor,true
+B00DN7DMWK,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B00E67UV9S,Headsets,,,2322.92,EGP,category_median_anchor,true
+B00E7IPN0I,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00EE99KMM,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00GD1BGYO,Keyboards,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B00HVLUR86,Headphones and earpieces,8641.65,EGP,8641.65,EGP,observed_snapshot_anchor,true
+B00M55BIXG,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00MUTWMN2,Headphones and earpieces,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B00NJ2M33I,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B00NLZUM36,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B00ODRSBPW,Headsets,,,2322.92,EGP,category_median_anchor,true
+B00PGB7OKM,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00QFQC7QI,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B00QXT5T3U,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B00SAYCXWG,Headsets,4236.58,EGP,4236.58,EGP,observed_snapshot_anchor,true
+B00WGQNJK4,Headphones and earpieces,856.01,EGP,856.01,EGP,observed_snapshot_anchor,true
+B00YJJB7YG,Headsets,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B00YXO5U40,Headsets,,,2322.92,EGP,category_median_anchor,true
+B00YXO5UKY,Headsets,,,2322.92,EGP,category_median_anchor,true
+B00Z9V0NKC,Mice and trackballs,515.24,EGP,515.24,EGP,observed_snapshot_anchor,true
+B00ZC3S818,Headsets,,,2322.92,EGP,category_median_anchor,true
+B00ZP2H42U,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B00ZYLMQH0,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B010BJJAVY,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B011HMDZ0Q,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B011VG69OM,Mice and trackballs,921.23,EGP,921.23,EGP,observed_snapshot_anchor,true
+B012AIJNSO,Mice and trackballs,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B012DT5U96,Mice and trackballs,456.00,EGP,456.00,EGP,observed_snapshot_anchor,true
+B014DT83K2,Keyboards,1084.28,EGP,1084.28,EGP,observed_snapshot_anchor,true
+B014EUQOGK,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B015NBTAOW,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B015NBTMMC,Mice and trackballs,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B015NBTNHQ,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B016ZF77OA,Mice and trackballs,1222.33,EGP,1222.33,EGP,observed_snapshot_anchor,true
+B01936N73I,Mice and trackballs,4910.52,EGP,4910.52,EGP,observed_snapshot_anchor,true
+B019AFNEV2,Keyboards,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B019O9BLVY,Keyboards,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B01AROOL12,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B01B7PDGU2,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B01BC4TXXC,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B01DPNPJ72,Webcams,,,2173.46,EGP,category_median_anchor,true
+B01E0Z5UAA,Headsets,,,2322.92,EGP,category_median_anchor,true
+B01H6GUCCQ,Headsets,1084.28,EGP,1084.28,EGP,observed_snapshot_anchor,true
+B01K92Z3OQ,Mice and trackballs,760.90,EGP,760.90,EGP,observed_snapshot_anchor,true
+B01LXCDPPK,Webcams,6510.59,EGP,6510.59,EGP,observed_snapshot_anchor,true
+B01LZTBKBG,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B01M7SHQNO,Headsets,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B01MFCTRZM,Keyboards,13586.96,EGP,13586.96,EGP,observed_snapshot_anchor,true
+B01MTEH6WZ,Mice and trackballs,16794.15,EGP,16794.15,EGP,observed_snapshot_anchor,true
+B01MXFA41N,Mice and trackballs,515.78,EGP,515.78,EGP,observed_snapshot_anchor,true
+B01MYYW3UA,Headsets,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B01MZZR0PV,Mice and trackballs,727.75,EGP,727.75,EGP,observed_snapshot_anchor,true
+B01N5UOYC4,Webcams,6684.51,EGP,6684.51,EGP,observed_snapshot_anchor,true
+B01NAI2TXC,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B01ND1K9TT,Mice and trackballs,6837.23,EGP,6837.23,EGP,observed_snapshot_anchor,true
+B06X92Z67Z,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B06X99NFRS,Conference cameras,4890.41,EGP,4890.41,EGP,observed_snapshot_anchor,true
+B06XHY8J7M,Keyboard and mouse bundles,1726.70,EGP,1726.70,EGP,observed_snapshot_anchor,true
+B06XW8QXVG,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B06Y472LYT,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B06ZZF95T6,Keyboards,1357.12,EGP,1357.12,EGP,observed_snapshot_anchor,true
+B06ZZRFGN7,Webcams,3777.32,EGP,3777.32,EGP,observed_snapshot_anchor,true
+B0711V7BV6,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B071HVWD55,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B071KT6W9P,Webcams,659.27,EGP,659.27,EGP,observed_snapshot_anchor,true
+B071VMG4D7,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B071YZJ1G1,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B072FG8LBV,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B072JQ98DF,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B072JX77X6,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B072N471V4,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B072Q88NZC,Conference cameras,38297.73,EGP,38297.73,EGP,observed_snapshot_anchor,true
+B072RCDN7T,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B074JHQ8M3,Headsets,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B074JLB1XP,Headsets,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B074L9L5KZ,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B074NBSF9N,Headsets,3803.41,EGP,3803.41,EGP,observed_snapshot_anchor,true
+B075GZVD4T,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B075H1D95N,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B07661NX9M,Webcams,,,2173.46,EGP,category_median_anchor,true
+B07754PYFK,Keypads,,,1521.26,EGP,category_median_anchor,true
+B0787D6SGQ,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B078QVQ8Q4,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B079JLY5M5,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B079YZHFL1,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B079ZC5V2Y,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B07B54Y4TZ,Webcams,2089.21,EGP,2089.21,EGP,observed_snapshot_anchor,true
+B07BFCVJZC,Mice and trackballs,1357.66,EGP,1357.66,EGP,observed_snapshot_anchor,true
+B07BHWFLZG,Webcams,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B07C2NL5HK,Mice and trackballs,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B07CMS5Q6N,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07CMS5Q6P,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07CTS6F8K,Headsets,,,2322.92,EGP,category_median_anchor,true
+B07D34L57F,Keyboards,1651.70,EGP,1651.70,EGP,observed_snapshot_anchor,true
+B07DRBT8BW,Mice and trackballs,914.71,EGP,914.71,EGP,observed_snapshot_anchor,true
+B07DW4XF4Q,Mice and trackballs,1194.61,EGP,1194.61,EGP,observed_snapshot_anchor,true
+B07F8M844G,Keyboard and mouse bundles,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B07FLKYRFB,Keyboards,1520.17,EGP,1520.17,EGP,observed_snapshot_anchor,true
+B07FNHV4MW,Mice and trackballs,3722.43,EGP,3722.43,EGP,observed_snapshot_anchor,true
+B07FNJB8TT,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07FT72M3X,Headsets,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B07G11G2X8,Keyboards,2880.01,EGP,2880.01,EGP,observed_snapshot_anchor,true
+B07G4ZBW9H,Mice and trackballs,1445.17,EGP,1445.17,EGP,observed_snapshot_anchor,true
+B07GBZ4Q68,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07GFRPR2D,Headsets,66046.66,EGP,66046.66,EGP,observed_snapshot_anchor,true
+B07H8TJMX7,Mice and trackballs,460.89,EGP,460.89,EGP,observed_snapshot_anchor,true
+B07H8W13J8,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B07H9JH7WP,Conference cameras,6141.01,EGP,6141.01,EGP,observed_snapshot_anchor,true
+B07HBDZ91C,Mice and trackballs,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B07HC4NBQ8,Mice and trackballs,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B07JGCBXYY,Webcams,5108.36,EGP,5108.36,EGP,observed_snapshot_anchor,true
+B07JLFF3VJ,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B07K986YLL,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B07KCRTN9Q,Keyboards,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B07KKZB9LM,Mice and trackballs,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B07L4BM851,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07M6Y7355,Webcams,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B07MGDRBBF,Mice and trackballs,2509.88,EGP,2509.88,EGP,observed_snapshot_anchor,true
+B07MMNVG4L,Keyboards,727.75,EGP,727.75,EGP,observed_snapshot_anchor,true
+B07MRMHML9,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B07NBJVH4G,Keypads,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B07NQMR7XS,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B07NSSPV9S,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07P6K5GMY,Keypads,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B07P92BRPB,Mice and trackballs,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B07PDFBJZD,Headsets,,,2322.92,EGP,category_median_anchor,true
+B07PRVS98X,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B07PSCCC78,Headsets,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B07Q7GQT72,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B07QNZC9V5,Headsets,5381.19,EGP,5381.19,EGP,observed_snapshot_anchor,true
+B07QP6G5JV,Conference cameras,1357.66,EGP,1357.66,EGP,observed_snapshot_anchor,true
+B07QQB9VCV,Keyboards,5975.24,EGP,5975.24,EGP,observed_snapshot_anchor,true
+B07QVB51L9,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B07QX9C9WH,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B07S1RQRRB,Conference cameras,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B07S9FMPD2,Headsets,,,2322.92,EGP,category_median_anchor,true
+B07SSD86LT,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B07T3S1TCG,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B07THFMNQ2,Mice and trackballs,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B07TS9C499,Conference cameras,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B07TVK8WJP,Peripheral bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B07VD4Q84X,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B07VFQMVRL,Mice and trackballs,2075.63,EGP,2075.63,EGP,observed_snapshot_anchor,true
+B07VL7BNLZ,Webcams,1082.11,EGP,1082.11,EGP,observed_snapshot_anchor,true
+B07VL8N7NX,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B07VN47CYW,Keyboards,1703.33,EGP,1703.33,EGP,observed_snapshot_anchor,true
+B07VV9KMSQ,Keypads,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B07W4DGC27,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B07W5JKKFJ,Webcams,7408.99,EGP,7408.99,EGP,observed_snapshot_anchor,true
+B07W6HSTNR,Mice and trackballs,3690.36,EGP,3690.36,EGP,observed_snapshot_anchor,true
+B07WCP4XQQ,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B07WCW1PB3,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B07WJ5D3H4,Keyboards,606.00,EGP,606.00,EGP,observed_snapshot_anchor,true
+B07WJJC45T,Keyboards,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B07X7GL76R,Keyboards,2873.48,EGP,2873.48,EGP,observed_snapshot_anchor,true
+B07XF2TGGK,Headsets,6521.46,EGP,6521.46,EGP,observed_snapshot_anchor,true
+B07XG9NPB6,Keyboard and mouse bundles,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B07XGD9XJL,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B07XHGLSGF,Headsets,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B07XP4K152,Mice and trackballs,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B07XVCP7F5,Keyboards,3221.32,EGP,3221.32,EGP,observed_snapshot_anchor,true
+B07Y1KKFBH,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B07Y3Z93WQ,Mice and trackballs,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B07Y44T3CD,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B07YKFM1M4,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B07YN73XN6,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B07YN82X3B,Mice and trackballs,1421.80,EGP,1421.80,EGP,observed_snapshot_anchor,true
+B07YYM57XT,Headsets,,,2322.92,EGP,category_median_anchor,true
+B07ZGDD6B1,Keyboards,5271.41,EGP,5271.41,EGP,observed_snapshot_anchor,true
+B07ZGDPT4M,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B07ZWK2TQT,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B081415GCS,Headsets,5977.96,EGP,5977.96,EGP,observed_snapshot_anchor,true
+B081JP3MJK,Headsets,1391.90,EGP,1391.90,EGP,observed_snapshot_anchor,true
+B081PP4CB6,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0829HZ3Q7,Webcams,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B082LVNHW9,Mice and trackballs,4021.36,EGP,4021.36,EGP,observed_snapshot_anchor,true
+B082V7PWD1,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B082X91MPP,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B083QM78TV,Webcams,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B083QQQDF1,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B083V6FWMM,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B083XT2WWD,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B083YYYYC3,Mice and trackballs,678.83,EGP,678.83,EGP,observed_snapshot_anchor,true
+B084BP8T18,Keyboards,9734.08,EGP,9734.08,EGP,observed_snapshot_anchor,true
+B084ZJFNKN,Webcams,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B085RGMMV4,Keyboards,1548.43,EGP,1548.43,EGP,observed_snapshot_anchor,true
+B085TFF7M1,Webcams,3690.36,EGP,3690.36,EGP,observed_snapshot_anchor,true
+B086658BJ2,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B086C12V7S,Headsets,6412.76,EGP,6412.76,EGP,observed_snapshot_anchor,true
+B086GHDRX4,Webcams,4428.98,EGP,4428.98,EGP,observed_snapshot_anchor,true
+B086MF8Q52,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B086PJKVVT,Mice and trackballs,2443.03,EGP,2443.03,EGP,observed_snapshot_anchor,true
+B086PKMZ21,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B086RDK8VT,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0876VDRZY,Keyboard and mouse bundles,1466.36,EGP,1466.36,EGP,observed_snapshot_anchor,true
+B087G87RGP,Webcams,2013.12,EGP,2013.12,EGP,observed_snapshot_anchor,true
+B087JVV8FK,Headphones and earpieces,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B087LP6F4Y,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B087Y7SMMW,Webcams,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B088B3ZM76,Mice and trackballs,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B088BY9PJG,Webcams,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B088CR6124,Headsets,1627.78,EGP,1627.78,EGP,observed_snapshot_anchor,true
+B088TSR6YJ,Conference cameras,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B08931JJLV,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B089KV4YYX,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B089NVTG1X,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B08B47K2CR,Keyboards,4999.66,EGP,4999.66,EGP,observed_snapshot_anchor,true
+B08B5WHYTT,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B08BHX7GYY,Webcams,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B08CL56SDS,Webcams,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B08CVDSC56,Mice and trackballs,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B08CY2H5BM,Conference cameras,32554.56,EGP,32554.56,EGP,observed_snapshot_anchor,true
+B08D6VD9TR,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B08D7CVDD8,Webcams,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B08DDLMGCY,Mice and trackballs,1248.42,EGP,1248.42,EGP,observed_snapshot_anchor,true
+B08DHPBP65,Webcams,2689.78,EGP,2689.78,EGP,observed_snapshot_anchor,true
+B08DRQ66WP,Webcams,3586.56,EGP,3586.56,EGP,observed_snapshot_anchor,true
+B08FMMGMPN,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B08FQTGFT5,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B08FX35S7K,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B08FX7T8Z4,Headsets,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B08FXZJSXV,Conference cameras,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B08G1WNS6F,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B08G52MB1J,Keyboards,2662.61,EGP,2662.61,EGP,observed_snapshot_anchor,true
+B08GDDZML8,Mice and trackballs,1583.22,EGP,1583.22,EGP,observed_snapshot_anchor,true
+B08GWHGT96,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B08HR68MQZ,Keyboards,16304.46,EGP,16304.46,EGP,observed_snapshot_anchor,true
+B08J896MYT,Webcams,,,2173.46,EGP,category_median_anchor,true
+B08J89V8M7,Mice and trackballs,3039.25,EGP,3039.25,EGP,observed_snapshot_anchor,true
+B08JLTYZ93,Keyboard and mouse bundles,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B08JQHVM2T,Keypads,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B08K33BR5S,Headsets,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B08K8B5GZ5,Conference cameras,5620.33,EGP,5620.33,EGP,observed_snapshot_anchor,true
+B08KKZ8S36,Headsets,,,2322.92,EGP,category_median_anchor,true
+B08KS397GY,Headsets,,,2322.92,EGP,category_median_anchor,true
+B08KY2WFGP,Headsets,,,2322.92,EGP,category_median_anchor,true
+B08L11WXFP,Conference cameras,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B08L7ZLNHB,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B08LBMVJYM,Webcams,4617.03,EGP,4617.03,EGP,observed_snapshot_anchor,true
+B08LNFPZLB,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B08M9FZWN9,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B08MKXVNZQ,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B08N4B8Z1J,Keyboard and mouse bundles,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B08N6CLDZ7,Headsets,684.27,EGP,684.27,EGP,observed_snapshot_anchor,true
+B08NG66ZT2,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B08P37VLHY,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B08P6FXKP9,Mice and trackballs,434.26,EGP,434.26,EGP,observed_snapshot_anchor,true
+B08PBVDQKG,Keyboard and mouse bundles,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B08PVYS2YV,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B08PYTX1XD,Webcams,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B08QV9D8WN,Keyboards,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B08SHCKVTG,Mice and trackballs,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B08SJ5Z8JL,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B08SK9QT1T,Keyboards,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B08SWJXKQ6,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B08TBF4S42,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B08TLJPZP8,Conference cameras,812.53,EGP,812.53,EGP,observed_snapshot_anchor,true
+B08VJ25PL1,Webcams,978.30,EGP,978.30,EGP,observed_snapshot_anchor,true
+B08WQX1XS3,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B08Y5XBWT1,Mice and trackballs,2309.88,EGP,2309.88,EGP,observed_snapshot_anchor,true
+B08YJ3PYRK,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B08Z6X4NK3,Keyboards,4293.11,EGP,4293.11,EGP,observed_snapshot_anchor,true
+B08ZCFKVQG,Conference cameras,6516.56,EGP,6516.56,EGP,observed_snapshot_anchor,true
+B08ZCHLZX9,Headsets,1629.41,EGP,1629.41,EGP,observed_snapshot_anchor,true
+B08ZXNDNYQ,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0916N2LPZ,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B091ZMKWT4,Headsets,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0921VFJ2C,Webcams,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B092CB69Q4,Mice and trackballs,8369.36,EGP,8369.36,EGP,observed_snapshot_anchor,true
+B093DTH5WP,Conference cameras,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B093KTJ7FH,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B093LSMKL3,Mice and trackballs,3477.86,EGP,3477.86,EGP,observed_snapshot_anchor,true
+B093QB6PJZ,Webcams,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B0943HXDVM,Mice and trackballs,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B094698CSV,Mice and trackballs,635.35,EGP,635.35,EGP,observed_snapshot_anchor,true
+B094JYH5YT,Mice and trackballs,679.38,EGP,679.38,EGP,observed_snapshot_anchor,true
+B094L9HWGM,Keyboards,5139.34,EGP,5139.34,EGP,observed_snapshot_anchor,true
+B094PS5RZQ,Mice and trackballs,1140.26,EGP,1140.26,EGP,observed_snapshot_anchor,true
+B094Q53RW6,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B094QH5MWN,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0955PVTYX,Headsets,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B095PCCLTB,Conference cameras,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0966V1GPG,Headsets,4888.78,EGP,4888.78,EGP,observed_snapshot_anchor,true
+B0966YMVMB,Webcams,11902.65,EGP,11902.65,EGP,observed_snapshot_anchor,true
+B09674F2X6,Headsets,1820.18,EGP,1820.18,EGP,observed_snapshot_anchor,true
+B096N1VMVC,Conference cameras,52675.48,EGP,52675.48,EGP,observed_snapshot_anchor,true
+B09726KT4R,Mice and trackballs,6518.74,EGP,6518.74,EGP,observed_snapshot_anchor,true
+B097BQS4H2,Webcams,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B097F8H1MC,Mice and trackballs,1845.18,EGP,1845.18,EGP,observed_snapshot_anchor,true
+B097P68MB4,Headsets,1559.30,EGP,1559.30,EGP,observed_snapshot_anchor,true
+B098785CL3,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B098GXD82C,Webcams,5912.74,EGP,5912.74,EGP,observed_snapshot_anchor,true
+B098HXFLMW,Mice and trackballs,3802.87,EGP,3802.87,EGP,observed_snapshot_anchor,true
+B098JGRWFX,Headsets,,,2322.92,EGP,category_median_anchor,true
+B098JK5T78,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B098JK6G5N,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B098LG3N6R,Keyboards,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B098S48QWM,Mice and trackballs,542.41,EGP,542.41,EGP,observed_snapshot_anchor,true
+B099SDYQ1F,Conference cameras,10435.20,EGP,10435.20,EGP,observed_snapshot_anchor,true
+B099T9J1YN,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B09B9PCYSS,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B09BBSWV89,Headsets,7494.86,EGP,7494.86,EGP,observed_snapshot_anchor,true
+B09BF64J55,Headsets,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B09BR46F63,Keyboard and mouse bundles,2880.01,EGP,2880.01,EGP,observed_snapshot_anchor,true
+B09BVCVTBC,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B09BXZKNDB,Headsets,15163.65,EGP,15163.65,EGP,observed_snapshot_anchor,true
+B09C13PZX7,Mice and trackballs,2418.03,EGP,2418.03,EGP,observed_snapshot_anchor,true
+B09C1BT8W3,Webcams,7190.50,EGP,7190.50,EGP,observed_snapshot_anchor,true
+B09CLWQ45V,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B09CXQZMHG,Mice and trackballs,4293.65,EGP,4293.65,EGP,observed_snapshot_anchor,true
+B09D79KTPX,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B09DK9CSTQ,Keyboards,1955.51,EGP,1955.51,EGP,observed_snapshot_anchor,true
+B09DKD9W52,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B09DKMB981,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B09DKQWTNC,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B09DQ6CQVR,Mice and trackballs,1039.72,EGP,1039.72,EGP,observed_snapshot_anchor,true
+B09DTHZS6B,Webcams,9238.96,EGP,9238.96,EGP,observed_snapshot_anchor,true
+B09DVGV7BH,Webcams,3776.78,EGP,3776.78,EGP,observed_snapshot_anchor,true
+B09F5K9HT2,Conference cameras,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B09F97ZW5L,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B09F99B8SX,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B09FL1K5HD,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B09FXFSY6R,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B09G6DTKNB,Mice and trackballs,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B09HHHDZZG,Mice and trackballs,1613.65,EGP,1613.65,EGP,observed_snapshot_anchor,true
+B09J1TB35S,Mice and trackballs,3555.58,EGP,3555.58,EGP,observed_snapshot_anchor,true
+B09J4WHL1R,Webcams,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B09JG4KJN5,Mice and trackballs,488.61,EGP,488.61,EGP,observed_snapshot_anchor,true
+B09JVSTM43,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B09K3DBL38,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B09KC6PSR9,Keyboard and mouse bundles,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B09KG6JJ4H,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B09KLPJQPD,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B09KX66ZCD,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B09KZGY5TK,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B09L4H1VBK,Mice and trackballs,489.69,EGP,489.69,EGP,observed_snapshot_anchor,true
+B09LH4KF5H,Keyboards,1272.33,EGP,1272.33,EGP,observed_snapshot_anchor,true
+B09LK1P1RD,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B09LYF2ST7,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B09MHL8SMR,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B09MLTY7J9,Conference cameras,6467.11,EGP,6467.11,EGP,observed_snapshot_anchor,true
+B09MMTHMVW,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B09MVVVWS8,Conference cameras,8641.65,EGP,8641.65,EGP,observed_snapshot_anchor,true
+B09MW5CD57,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B09N77317Q,Conference cameras,3803.41,EGP,3803.41,EGP,observed_snapshot_anchor,true
+B09N9CPX34,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B09NBV52FS,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B09NBVC3BK,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B09NBVS84T,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B09NBX6BVW,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B09P33RWFJ,Keyboard and mouse bundles,1026.67,EGP,1026.67,EGP,observed_snapshot_anchor,true
+B09P55ZLQY,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B09PBXMKPR,Headsets,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B09PFQBY2B,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B09PG3TMKQ,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B09PJJZY5N,Webcams,2934.36,EGP,2934.36,EGP,observed_snapshot_anchor,true
+B09PZG4R17,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B09QKR8P6T,Webcams,3252.85,EGP,3252.85,EGP,observed_snapshot_anchor,true
+B09RGJWVG7,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B09S1FYRLZ,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B09S2B2QX2,Webcams,3206.11,EGP,3206.11,EGP,observed_snapshot_anchor,true
+B09STTTKBK,Keyboards,1791.92,EGP,1791.92,EGP,observed_snapshot_anchor,true
+B09TB15CTL,Headsets,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B09TFFKT9M,Conference cameras,9238.96,EGP,9238.96,EGP,observed_snapshot_anchor,true
+B09TKCNP96,Webcams,2108.78,EGP,2108.78,EGP,observed_snapshot_anchor,true
+B09TKH352V,Keyboard and mouse bundles,1564.74,EGP,1564.74,EGP,observed_snapshot_anchor,true
+B09TR4Y91J,Keyboards,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B09TRW57WB,Headsets,5923.61,EGP,5923.61,EGP,observed_snapshot_anchor,true
+B09TSJBYNB,Keyboard and mouse bundles,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B09VNTCZZN,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B09VPBF8NY,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B09W1CGJMC,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B09WD4X6B6,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B09WDJNBT1,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B09WHTMF23,Webcams,,,2173.46,EGP,category_median_anchor,true
+B09WRL9YN2,Webcams,2119.11,EGP,2119.11,EGP,observed_snapshot_anchor,true
+B09WY77FX4,Conference cameras,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B09X5H7T9S,Conference cameras,32555.65,EGP,32555.65,EGP,observed_snapshot_anchor,true
+B09X6FKCBD,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B09XMX155S,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B09XZXRFPX,Headsets,3750.15,EGP,3750.15,EGP,observed_snapshot_anchor,true
+B09XZZQK6Q,Headsets,,,2322.92,EGP,category_median_anchor,true
+B09Y8K2HJN,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B09YHQ3Y61,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B09YHQWHKV,Headsets,5924.15,EGP,5924.15,EGP,observed_snapshot_anchor,true
+B09Z168DRF,Conference cameras,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B09ZHH86TV,Conference cameras,37990.65,EGP,37990.65,EGP,observed_snapshot_anchor,true
+B09ZTWFL8Z,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B09ZWF9BCJ,Headsets,,,2322.92,EGP,category_median_anchor,true
+B09ZY348SY,Mice and trackballs,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B09ZYDRCZV,Headsets,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0B193JVDJ,Conference cameras,55481.02,EGP,55481.02,EGP,observed_snapshot_anchor,true
+B0B1WR5K89,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0B3F8V4JG,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0B3KVX5Z6,Headsets,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0B3RJML38,Keyboard and mouse bundles,1421.80,EGP,1421.80,EGP,observed_snapshot_anchor,true
+B0B4516W4L,Mice and trackballs,4132.23,EGP,4132.23,EGP,observed_snapshot_anchor,true
+B0B4BQH8D1,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0B4DGBXCQ,Conference cameras,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B0B4X15PCR,Keyboard and mouse bundles,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0B4Z9CBRK,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0B4ZWZ89X,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0B5FP7GST,Keyboards,11139.03,EGP,11139.03,EGP,observed_snapshot_anchor,true
+B0B5FRTRKB,Mice and trackballs,1410.38,EGP,1410.38,EGP,observed_snapshot_anchor,true
+B0B5R6KD2H,Conference cameras,16304.46,EGP,16304.46,EGP,observed_snapshot_anchor,true
+B0B66RHD7B,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0B6XTDJS1,Mice and trackballs,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0B6XZLNHQ,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0B6Y3XYFG,Mice and trackballs,5380.65,EGP,5380.65,EGP,observed_snapshot_anchor,true
+B0B6Y52YXB,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0B73JCBRZ,Keyboard and mouse bundles,1026.67,EGP,1026.67,EGP,observed_snapshot_anchor,true
+B0B7W736Z9,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0B8Q8P1FY,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0B8QMW657,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0B9SDPT9M,Headsets,1290.27,EGP,1290.27,EGP,observed_snapshot_anchor,true
+B0BB2Q8RK6,Webcams,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0BDHYF8YS,Headsets,1357.66,EGP,1357.66,EGP,observed_snapshot_anchor,true
+B0BDMLY69R,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BFJ4CRKD,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0BG28NB7S,Headsets,1628.33,EGP,1628.33,EGP,observed_snapshot_anchor,true
+B0BGJT87N2,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0BGKFJJYW,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0BGLG4K4B,Conference cameras,5704.03,EGP,5704.03,EGP,observed_snapshot_anchor,true
+B0BGN6YHC5,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0BJ6NBYJG,Mice and trackballs,488.06,EGP,488.06,EGP,observed_snapshot_anchor,true
+B0BJDPT8V3,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0BJDVKJB9,Webcams,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0BKKTBMYV,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0BKKYRQ31,Keyboards,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0BKLGJPQT,Mice and trackballs,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0BKVY4WKT,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0BKVZK4TH,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BKZXSQDH,Keyboard and mouse bundles,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0BLSB9BZD,Headsets,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B0BLYKTL78,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0BM47LBNY,Headsets,3803.41,EGP,3803.41,EGP,observed_snapshot_anchor,true
+B0BM4HGSFJ,Earbuds or earphones,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0BMG346V9,Webcams,10325.96,EGP,10325.96,EGP,observed_snapshot_anchor,true
+B0BMLXSNG8,Headphones and earpieces,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0BMQQQHC2,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0BNN95XYL,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0BPCW5CS6,Mice and trackballs,379.36,EGP,379.36,EGP,observed_snapshot_anchor,true
+B0BQ732228,Keyboards,3586.56,EGP,3586.56,EGP,observed_snapshot_anchor,true
+B0BQ8J7SHP,Conference cameras,44892.56,EGP,44892.56,EGP,observed_snapshot_anchor,true
+B0BQC4GB3T,Keyboards,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0BQHT753W,Conference cameras,15163.65,EGP,15163.65,EGP,observed_snapshot_anchor,true
+B0BQMDHJV3,Conference cameras,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0BQYP4H8Z,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0BRKGMYBR,Webcams,4782.26,EGP,4782.26,EGP,observed_snapshot_anchor,true
+B0BRPKS8HP,Conference cameras,19021.96,EGP,19021.96,EGP,observed_snapshot_anchor,true
+B0BRSSGBCN,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BRX75KQ1,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0BS1PRC4L,Headphones and earpieces,2065.30,EGP,2065.30,EGP,observed_snapshot_anchor,true
+B0BS1QCFHX,Headphones and earpieces,4782.80,EGP,4782.80,EGP,observed_snapshot_anchor,true
+B0BS1RT9S2,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B0BSJYM8FF,Headsets,2716.41,EGP,2716.41,EGP,observed_snapshot_anchor,true
+B0BSLHP1XR,Conference cameras,27174.46,EGP,27174.46,EGP,observed_snapshot_anchor,true
+B0BT15X781,Keypads,,,1521.26,EGP,category_median_anchor,true
+B0BT3VC25K,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BT4DP7SC,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BTCP9T5S,Headsets,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0BTNY72VD,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BTNYGHN7,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BTNZSXLG,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BTNZWYT5,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0BW9HS24K,Conference cameras,597.31,EGP,597.31,EGP,observed_snapshot_anchor,true
+B0BWGZCT9N,Mice and trackballs,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0BWNBYWJZ,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0BWY6922V,Earbuds or earphones,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0BX52PCJ5,Mice and trackballs,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0BX94BJFR,Webcams,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0BXBC26X8,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0BXD57W6H,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0BXGCRRLW,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0BXGDT1LM,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0BXGFFSL1,Webcams,1896.82,EGP,1896.82,EGP,observed_snapshot_anchor,true
+B0BXNQK9CM,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0BXNR9DB6,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0BXW81W3W,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0BXWG3YTL,Mice and trackballs,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0BXYV1SZQ,Mice and trackballs,325.56,EGP,325.56,EGP,observed_snapshot_anchor,true
+B0BXZ48KSQ,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0BY1HQBSX,Headsets,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0BYD5H31D,Mice and trackballs,325.01,EGP,325.01,EGP,observed_snapshot_anchor,true
+B0BYDJ9LW5,Mice and trackballs,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0BYZ2DCKS,Mice and trackballs,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0BZ48R28T,Mice and trackballs,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0BZCCXJJ4,Keyboard and mouse bundles,3227.85,EGP,3227.85,EGP,observed_snapshot_anchor,true
+B0C1GTXY5S,Headsets,1194.61,EGP,1194.61,EGP,observed_snapshot_anchor,true
+B0C1NT9W9K,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0C1T2HL7L,Mice and trackballs,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0C1VJ57KL,Keyboard and mouse bundles,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0C23G7P2K,Keyboard and mouse bundles,2021.82,EGP,2021.82,EGP,observed_snapshot_anchor,true
+B0C27R48Z6,Conference cameras,7609.00,EGP,7609.00,EGP,observed_snapshot_anchor,true
+B0C2C9QT91,Conference cameras,747.31,EGP,747.31,EGP,observed_snapshot_anchor,true
+B0C2Q2HV8Q,Conference cameras,13532.61,EGP,13532.61,EGP,observed_snapshot_anchor,true
+B0C2VJF1MW,Mice and trackballs,1173.42,EGP,1173.42,EGP,observed_snapshot_anchor,true
+B0C35XD8LQ,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0C3B6ZR1V,Conference cameras,16250.65,EGP,16250.65,EGP,observed_snapshot_anchor,true
+B0C3BSZ56D,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0C3BV19Q3,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0C3GT9ST5,Headphones and earpieces,1148.96,EGP,1148.96,EGP,observed_snapshot_anchor,true
+B0C3HCD34R,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B0C3VNNS4Y,Keyboards,782.10,EGP,782.10,EGP,observed_snapshot_anchor,true
+B0C3WQQH6Q,Webcams,2500.10,EGP,2500.10,EGP,observed_snapshot_anchor,true
+B0C48K99FS,Headsets,3259.91,EGP,3259.91,EGP,observed_snapshot_anchor,true
+B0C4CX6786,Mice and trackballs,1148.96,EGP,1148.96,EGP,observed_snapshot_anchor,true
+B0C4F9JGTJ,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0C4H8CBHP,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0C51934VF,Mice and trackballs,4288.22,EGP,4288.22,EGP,observed_snapshot_anchor,true
+B0C51J2ZXN,Mice and trackballs,1899.53,EGP,1899.53,EGP,observed_snapshot_anchor,true
+B0C59231RD,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0C5DCRRN7,Headsets,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0C5T9JM59,Headsets,2472.38,EGP,2472.38,EGP,observed_snapshot_anchor,true
+B0C6DLM914,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0C6F5T7FZ,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0C6FFNSVV,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0C6FGRYPC,Headsets,2282.16,EGP,2282.16,EGP,observed_snapshot_anchor,true
+B0C6FLXL5W,Headsets,2825.66,EGP,2825.66,EGP,observed_snapshot_anchor,true
+B0C6FMXZ5Z,Headsets,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0C6JVNM9L,Mice and trackballs,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0C6RK64Z2,Keyboards,9238.96,EGP,9238.96,EGP,observed_snapshot_anchor,true
+B0C747G2K8,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0C76ZD7KV,Webcams,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B0C7KFZ5TL,Keyboards,7173.66,EGP,7173.66,EGP,observed_snapshot_anchor,true
+B0C7QMD44R,Keyboard and mouse bundles,954.39,EGP,954.39,EGP,observed_snapshot_anchor,true
+B0C7QT2X8L,Headsets,1073.96,EGP,1073.96,EGP,observed_snapshot_anchor,true
+B0C84ZD7L6,Mice and trackballs,3206.11,EGP,3206.11,EGP,observed_snapshot_anchor,true
+B0C86SD46V,Headsets,2662.61,EGP,2662.61,EGP,observed_snapshot_anchor,true
+B0C89LQTBZ,Headsets,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0C8PR4W22,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B0C8QYB8W6,Keyboards,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0C9D3PL82,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0C9HKYXSH,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0C9ZJHQHM,Keyboards,2508.80,EGP,2508.80,EGP,observed_snapshot_anchor,true
+B0CBPNWCVS,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0CBV3BS4W,Keyboard and mouse bundles,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0CCL9622D,Headsets,1440.28,EGP,1440.28,EGP,observed_snapshot_anchor,true
+B0CCXJB1JG,Mice and trackballs,1357.66,EGP,1357.66,EGP,observed_snapshot_anchor,true
+B0CCZ26B5V,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B0CCZQTF73,Mice and trackballs,4945.31,EGP,4945.31,EGP,observed_snapshot_anchor,true
+B0CDFNPJ5V,Headsets,1548.98,EGP,1548.98,EGP,observed_snapshot_anchor,true
+B0CDGX5HYZ,Webcams,7228.01,EGP,7228.01,EGP,observed_snapshot_anchor,true
+B0CDKXKMWZ,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0CDVX5HYY,Headsets,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0CDWP1D58,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0CDX5XGLK,Keyboards,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0CF1MM1YM,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0CF3LHQSM,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0CF3VGQFL,Keyboards,1548.43,EGP,1548.43,EGP,observed_snapshot_anchor,true
+B0CF4DJM7F,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0CF4L9LPR,Mice and trackballs,2102.80,EGP,2102.80,EGP,observed_snapshot_anchor,true
+B0CF95RYDD,Conference cameras,16304.46,EGP,16304.46,EGP,observed_snapshot_anchor,true
+B0CF9W1JR7,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0CFZ9N4QD,Conference cameras,16250.65,EGP,16250.65,EGP,observed_snapshot_anchor,true
+B0CG8M6L8G,Keyboards,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0CGHBKYCG,Mice and trackballs,650.57,EGP,650.57,EGP,observed_snapshot_anchor,true
+B0CGL8X4H6,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0CGM1C2B9,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0CGZJR7WK,Webcams,2081.60,EGP,2081.60,EGP,observed_snapshot_anchor,true
+B0CH3MRGK7,Keyboards,5827.95,EGP,5827.95,EGP,observed_snapshot_anchor,true
+B0CH9TPJ3V,Keyboards,1280.49,EGP,1280.49,EGP,observed_snapshot_anchor,true
+B0CHVWJP7N,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0CHW1ZV3D,Conference cameras,21739.46,EGP,21739.46,EGP,observed_snapshot_anchor,true
+B0CJ4TPLRM,Mice and trackballs,6466.02,EGP,6466.02,EGP,observed_snapshot_anchor,true
+B0CJFB8J7B,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0CJH3DJ36,Headsets,10761.30,EGP,10761.30,EGP,observed_snapshot_anchor,true
+B0CJHZ92P6,Webcams,2477.82,EGP,2477.82,EGP,observed_snapshot_anchor,true
+B0CJQ3QB55,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0CJR27FDK,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0CJW5SCM7,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0CJXQVMHL,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0CKN2NSYL,Mice and trackballs,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0CKXDSLZM,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0CLF2BYV8,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0CLH89X2K,Keyboards,5162.71,EGP,5162.71,EGP,observed_snapshot_anchor,true
+B0CLLHSWRL,Keyboards,3749.61,EGP,3749.61,EGP,observed_snapshot_anchor,true
+B0CLLJC6QC,Headsets,1955.51,EGP,1955.51,EGP,observed_snapshot_anchor,true
+B0CLLRLMK7,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0CM6XWFWB,Keyboards,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0CMC1F5WB,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0CMWK8YGY,Keyboards,3187.08,EGP,3187.08,EGP,observed_snapshot_anchor,true
+B0CN6D22G1,Webcams,6478.52,EGP,6478.52,EGP,observed_snapshot_anchor,true
+B0CN98QF2Z,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0CNCSFQC1,USB cameras,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0CNH7T8VK,Mice and trackballs,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0CNP1BG1W,Keyboards,2444.66,EGP,2444.66,EGP,observed_snapshot_anchor,true
+B0CNT61VMZ,Keyboards,3586.56,EGP,3586.56,EGP,observed_snapshot_anchor,true
+B0CP3HTHLZ,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0CP5SZ2JB,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0CP6BG9QW,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0CP6BTQKR,Webcams,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0CP76B4FD,Headsets,1613.65,EGP,1613.65,EGP,observed_snapshot_anchor,true
+B0CPNYF89X,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CPP272XK,Headsets,2282.16,EGP,2282.16,EGP,observed_snapshot_anchor,true
+B0CPP47ZP6,Headsets,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0CPSGRFV7,Mice and trackballs,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0CPSP33T8,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0CPSP69MQ,Mice and trackballs,1250.05,EGP,1250.05,EGP,observed_snapshot_anchor,true
+B0CPSPN896,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0CQ2MSP2B,Keyboards,4130.06,EGP,4130.06,EGP,observed_snapshot_anchor,true
+B0CQJV4BW3,Keyboard and mouse bundles,1575.06,EGP,1575.06,EGP,observed_snapshot_anchor,true
+B0CQJVSL1Z,Webcams,3063.71,EGP,3063.71,EGP,observed_snapshot_anchor,true
+B0CQLDNJPV,Mice and trackballs,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0CQP9GK47,Keyboard and mouse bundles,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0CQT68QV4,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0CQX1T117,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0CS2BJWXS,Keyboards,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0CS32LM8W,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0CS42B2SN,Webcams,6304.06,EGP,6304.06,EGP,observed_snapshot_anchor,true
+B0CS68QV83,Keyboards,3097.41,EGP,3097.41,EGP,observed_snapshot_anchor,true
+B0CSN445GY,Conference cameras,16250.65,EGP,16250.65,EGP,observed_snapshot_anchor,true
+B0CSNYKLV7,Conference cameras,11201.54,EGP,11201.54,EGP,observed_snapshot_anchor,true
+B0CSP61VR4,Mice and trackballs,4345.28,EGP,4345.28,EGP,observed_snapshot_anchor,true
+B0CSPM3FSD,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0CSSLQMPM,Webcams,4157.23,EGP,4157.23,EGP,observed_snapshot_anchor,true
+B0CSXYG85H,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0CSYR5PK5,Keyboards,3749.61,EGP,3749.61,EGP,observed_snapshot_anchor,true
+B0CT2C56BB,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0CT4Q7Y2V,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0CTC974V8,Webcams,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0CTKSZKM7,Headsets,7717.16,EGP,7717.16,EGP,observed_snapshot_anchor,true
+B0CTN13WT1,Mice and trackballs,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0CVR5DM26,Mice and trackballs,3151.76,EGP,3151.76,EGP,observed_snapshot_anchor,true
+B0CVRXLB6D,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0CVYHHDLD,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0CW1S7XP5,Webcams,6521.46,EGP,6521.46,EGP,observed_snapshot_anchor,true
+B0CW6F9W2K,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0CW96V1Z2,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0CW9T3RJR,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0CWGR5KM9,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0CWL1B5HW,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0CWLLD4G6,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0CWS6WV23,Headsets,2143.56,EGP,2143.56,EGP,observed_snapshot_anchor,true
+B0CX2VP556,Webcams,1545.71,EGP,1545.71,EGP,observed_snapshot_anchor,true
+B0CX8S8JLX,Webcams,11412.96,EGP,11412.96,EGP,observed_snapshot_anchor,true
+B0CXGTGPZQ,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CXH14PPD,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CXH38Y32,Headsets,5217.06,EGP,5217.06,EGP,observed_snapshot_anchor,true
+B0CXM2NWG8,Mice and trackballs,814.16,EGP,814.16,EGP,observed_snapshot_anchor,true
+B0CXM4JSKR,Mice and trackballs,814.16,EGP,814.16,EGP,observed_snapshot_anchor,true
+B0CXPCMGP1,Keyboards,2662.61,EGP,2662.61,EGP,observed_snapshot_anchor,true
+B0CY2C7H6S,Webcams,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0CY6HD4W3,Headsets,2663.15,EGP,2663.15,EGP,observed_snapshot_anchor,true
+B0CYC3GQFL,Keyboards,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0CYQ5P6T7,Webcams,3233.28,EGP,3233.28,EGP,observed_snapshot_anchor,true
+B0CYSQWYZP,Keyboards,5977.96,EGP,5977.96,EGP,observed_snapshot_anchor,true
+B0CYTF6Q51,Mice and trackballs,2119.11,EGP,2119.11,EGP,observed_snapshot_anchor,true
+B0CYWD9PSM,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CYWFH5Y9,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CYWJJLBY,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CYWLSCFW,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0CZ2HFV2Z,Webcams,1214.18,EGP,1214.18,EGP,observed_snapshot_anchor,true
+B0CZ6SMBR4,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0CZ6XY78Y,Conference cameras,6467.65,EGP,6467.65,EGP,observed_snapshot_anchor,true
+B0CZ7M1TH6,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0CZM2FB6R,Keyboards,992.97,EGP,992.97,EGP,observed_snapshot_anchor,true
+B0CZM6JKZ4,Keyboards,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0CZMSQ89L,Mice and trackballs,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0CZMYKWPS,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0D13VX3S6,Headsets,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0D14D4P98,Mice and trackballs,1090.26,EGP,1090.26,EGP,observed_snapshot_anchor,true
+B0D14N2QZF,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0D17C3ZVJ,Keyboards,1502.23,EGP,1502.23,EGP,observed_snapshot_anchor,true
+B0D17TFVTF,Earbuds or earphones,487.52,EGP,487.52,EGP,observed_snapshot_anchor,true
+B0D1DSW8TF,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0D1G53TZ2,Keyboards,9781.91,EGP,9781.91,EGP,observed_snapshot_anchor,true
+B0D1J9B7PV,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0D1QBQMWV,Keypads,,,1521.26,EGP,category_median_anchor,true
+B0D1XDDW2S,Mice and trackballs,21413.90,EGP,21413.90,EGP,observed_snapshot_anchor,true
+B0D21LMYB7,Keyboards,3749.61,EGP,3749.61,EGP,observed_snapshot_anchor,true
+B0D22FGR8C,Mice and trackballs,542.41,EGP,542.41,EGP,observed_snapshot_anchor,true
+B0D2JGKRMM,Mice and trackballs,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B0D2L14BYP,Headsets,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0D2ND8YMR,Headsets,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0D2QJ9W2G,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0D2YBQQ1P,Headsets,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0D3CZYCH2,Keyboards,922.32,EGP,922.32,EGP,observed_snapshot_anchor,true
+B0D3GN8MGL,Conference cameras,20598.65,EGP,20598.65,EGP,observed_snapshot_anchor,true
+B0D3KTJ6DN,Keyboards,1238.64,EGP,1238.64,EGP,observed_snapshot_anchor,true
+B0D3KXL46B,Mice and trackballs,1608.22,EGP,1608.22,EGP,observed_snapshot_anchor,true
+B0D3LKLJ22,Mice and trackballs,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0D3LNX4CG,Mice and trackballs,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0D3LPNN9N,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0D41V98WF,Conference cameras,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0D45KJ869,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0D4FB77HG,Conference cameras,97775.65,EGP,97775.65,EGP,observed_snapshot_anchor,true
+B0D4LRD77L,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0D4Q8TWWM,Mice and trackballs,1462.02,EGP,1462.02,EGP,observed_snapshot_anchor,true
+B0D4QD1677,Mice and trackballs,1462.02,EGP,1462.02,EGP,observed_snapshot_anchor,true
+B0D4RF55QK,Mice and trackballs,5380.65,EGP,5380.65,EGP,observed_snapshot_anchor,true
+B0D5M9QNZZ,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0D5N5G5WG,Webcams,1328.31,EGP,1328.31,EGP,observed_snapshot_anchor,true
+B0D5PP1W71,Headsets,2608.26,EGP,2608.26,EGP,observed_snapshot_anchor,true
+B0D5RK1L26,Webcams,8641.11,EGP,8641.11,EGP,observed_snapshot_anchor,true
+B0D5Z1C5TB,Headsets,7826.40,EGP,7826.40,EGP,observed_snapshot_anchor,true
+B0D64M2YVH,3D input controllers,,,5000.00,EGP,explicit_project_fallback,true
+B0D6BMY9PC,Webcams,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0D6JMDJH4,Headsets,3931.68,EGP,3931.68,EGP,observed_snapshot_anchor,true
+B0D6PTR6MP,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0D6PZ5DPN,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0D6QBHSVH,Headsets,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0D6YPHHHH,Conference cameras,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0D72GT4L6,Headsets,1301.68,EGP,1301.68,EGP,observed_snapshot_anchor,true
+B0D7364XBV,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0D79J1K2Q,Headphones and earpieces,,,1496.80,EGP,category_median_anchor,true
+B0D7H2FXG5,Keyboard and mouse bundles,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0D7VD5SMS,Webcams,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0D7WZBR8P,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0D7Z13LDG,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0D86Z6N3Q,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0D8HY51MZ,Keyboards,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0D8KML4N6,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0D94V544S,Keyboard and mouse bundles,2119.11,EGP,2119.11,EGP,observed_snapshot_anchor,true
+B0D9C373Y7,Webcams,8423.71,EGP,8423.71,EGP,observed_snapshot_anchor,true
+B0D9M58Y1T,Mice and trackballs,2663.15,EGP,2663.15,EGP,observed_snapshot_anchor,true
+B0D9N62T62,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0D9W7J9SK,Webcams,7011.15,EGP,7011.15,EGP,observed_snapshot_anchor,true
+B0D9W7W7PZ,Webcams,7011.15,EGP,7011.15,EGP,observed_snapshot_anchor,true
+B0D9W7YLV7,Webcams,7011.15,EGP,7011.15,EGP,observed_snapshot_anchor,true
+B0D9Y5JWRX,Keyboards,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0D9YHZPSY,Mice and trackballs,515.78,EGP,515.78,EGP,observed_snapshot_anchor,true
+B0D9ZQTZ8N,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0D9ZV97P6,Headsets,9728.65,EGP,9728.65,EGP,observed_snapshot_anchor,true
+B0DB1WY5L9,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0DB6JCHCD,Keyboards,6250.25,EGP,6250.25,EGP,observed_snapshot_anchor,true
+B0DB737QJ3,Headsets,972.32,EGP,972.32,EGP,observed_snapshot_anchor,true
+B0DB96KTGL,Headsets,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0DB9LQ7R5,Headsets,10035.18,EGP,10035.18,EGP,observed_snapshot_anchor,true
+B0DBKR65FX,Keypads,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0DBLHVGV7,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0DBRKKHDZ,Mice and trackballs,950.58,EGP,950.58,EGP,observed_snapshot_anchor,true
+B0DBTZZQXR,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0DBZ3JYZH,Keyboard and mouse bundles,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0DBZGH5XM,Keyboards,2396.29,EGP,2396.29,EGP,observed_snapshot_anchor,true
+B0DCFGC6NJ,Webcams,4886.61,EGP,4886.61,EGP,observed_snapshot_anchor,true
+B0DCHD4BCR,Webcams,12990.74,EGP,12990.74,EGP,observed_snapshot_anchor,true
+B0DCNY57SW,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0DCVP49FN,Mice and trackballs,684.27,EGP,684.27,EGP,observed_snapshot_anchor,true
+B0DD3SCWHD,Keyboards,3407.20,EGP,3407.20,EGP,observed_snapshot_anchor,true
+B0DD7VRVN4,Headsets,895.69,EGP,895.69,EGP,observed_snapshot_anchor,true
+B0DDC8N5BL,Headsets,2581.08,EGP,2581.08,EGP,observed_snapshot_anchor,true
+B0DDFFQ3CM,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0DDK5WRDZ,Webcams,1152.22,EGP,1152.22,EGP,observed_snapshot_anchor,true
+B0DDLGNTX1,Webcams,2852.83,EGP,2852.83,EGP,observed_snapshot_anchor,true
+B0DDT75R2R,Keyboard and mouse bundles,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0DDTGY8FG,Webcams,8151.96,EGP,8151.96,EGP,observed_snapshot_anchor,true
+B0DDTH3HX8,Conference cameras,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0DF2HGK3D,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0DF2HXP1X,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0DFGJ4FHH,Mice and trackballs,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0DFV1KZ4K,Conference cameras,122233.15,EGP,122233.15,EGP,observed_snapshot_anchor,true
+B0DFXWQWB8,Keyboards,4888.78,EGP,4888.78,EGP,observed_snapshot_anchor,true
+B0DFXXZBQQ,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0DG2SYQKR,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0DG5SW7F4,Mice and trackballs,1133.20,EGP,1133.20,EGP,observed_snapshot_anchor,true
+B0DG7LDR38,Mice and trackballs,3259.91,EGP,3259.91,EGP,observed_snapshot_anchor,true
+B0DG837JYP,Mice and trackballs,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0DG8XHXPD,Headsets,15984.34,EGP,15984.34,EGP,observed_snapshot_anchor,true
+B0DGLM2VJC,Keyboards,4646.38,EGP,4646.38,EGP,observed_snapshot_anchor,true
+B0DGPVLHD5,Conference cameras,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DGS7Y4ZP,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0DGX5NBKZ,Conference cameras,1396.25,EGP,1396.25,EGP,observed_snapshot_anchor,true
+B0DGXFNVLD,Webcams,1187.00,EGP,1187.00,EGP,observed_snapshot_anchor,true
+B0DGZY13L6,Headsets,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0DH292HKP,Keyboards,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B0DHCMDL2Z,Headsets,1573.43,EGP,1573.43,EGP,observed_snapshot_anchor,true
+B0DHGGRYZ9,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0DHH5WJSF,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0DHKJZ1HV,Webcams,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DHLRS64R,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0DHVCH1K4,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0DHVFT8MW,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0DJBJ8NND,Conference cameras,18968.15,EGP,18968.15,EGP,observed_snapshot_anchor,true
+B0DJDZG9KJ,Headsets,7011.15,EGP,7011.15,EGP,observed_snapshot_anchor,true
+B0DJF1K8JN,Headsets,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0DJH1DPCC,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0DJNJLK7X,Keyboards,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0DJNMXZXF,Keyboards,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0DJW7PJV3,Headsets,2990.34,EGP,2990.34,EGP,observed_snapshot_anchor,true
+B0DJZLXKTW,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0DK1PGT7B,Headsets,1682.13,EGP,1682.13,EGP,observed_snapshot_anchor,true
+B0DK525MNS,Keyboard and mouse bundles,1950.08,EGP,1950.08,EGP,observed_snapshot_anchor,true
+B0DK6LCX11,Conference cameras,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0DK8WN5B7,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0DKFGJDCN,Mice and trackballs,325.56,EGP,325.56,EGP,observed_snapshot_anchor,true
+B0DKHHWJT3,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0DKNDPKV3,Keyboards,4124.62,EGP,4124.62,EGP,observed_snapshot_anchor,true
+B0DKNKB28C,Keyboards,6195.36,EGP,6195.36,EGP,observed_snapshot_anchor,true
+B0DKXH5WCD,Keyboards,6521.46,EGP,6521.46,EGP,observed_snapshot_anchor,true
+B0DL4SJR5R,Headsets,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0DL6LV7Q6,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0DL72PK1P,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0DLBD36HL,Keyboard and mouse bundles,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0DLGD6G4F,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0DLN1V168,Mice and trackballs,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0DLVTZ75V,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0DLWB1ML4,Conference cameras,17881.15,EGP,17881.15,EGP,observed_snapshot_anchor,true
+B0DLWKQNPK,Headsets,1123.41,EGP,1123.41,EGP,observed_snapshot_anchor,true
+B0DM1DVSV6,Mice and trackballs,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0DM5KX694,Keyboards,3032.19,EGP,3032.19,EGP,observed_snapshot_anchor,true
+B0DM5YP22D,Conference cameras,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0DM95HZG5,Headsets,3258.83,EGP,3258.83,EGP,observed_snapshot_anchor,true
+B0DMDJB6G2,Keyboards,1711.48,EGP,1711.48,EGP,observed_snapshot_anchor,true
+B0DMF4GLR8,Conference cameras,4293.65,EGP,4293.65,EGP,observed_snapshot_anchor,true
+B0DMP36MVC,Headphones and earpieces,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0DMSFJ95G,Headsets,1606.04,EGP,1606.04,EGP,observed_snapshot_anchor,true
+B0DN5Z2QY7,Keyboard and mouse bundles,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0DNTLYK6Z,Headsets,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0DP3CTHR7,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DPB3ZZLW,Keyboards,1848.44,EGP,1848.44,EGP,observed_snapshot_anchor,true
+B0DPJ8XWVV,Keyboard and mouse bundles,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0DPWX3WTL,Keyboards,3912.66,EGP,3912.66,EGP,observed_snapshot_anchor,true
+B0DQ196WLW,Webcams,3750.15,EGP,3750.15,EGP,observed_snapshot_anchor,true
+B0DQ1D9VJR,Keyboards,1331.03,EGP,1331.03,EGP,observed_snapshot_anchor,true
+B0DQ498HNB,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0DQ62TYTS,Mice and trackballs,1647.89,EGP,1647.89,EGP,observed_snapshot_anchor,true
+B0DQCFX9WN,Conference cameras,13206.51,EGP,13206.51,EGP,observed_snapshot_anchor,true
+B0DQCW3L6D,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0DQQT2ZS3,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0DR1K3DM1,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0DRDJVQRF,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0DRF83FNB,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DRF86X6K,Conference cameras,13859.25,EGP,13859.25,EGP,observed_snapshot_anchor,true
+B0DRFC52FQ,Keyboards,4646.38,EGP,4646.38,EGP,observed_snapshot_anchor,true
+B0DRFGNWV1,Keyboards,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0DRHW28TW,Headsets,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0DRKFT15Y,Keyboards,4129.51,EGP,4129.51,EGP,observed_snapshot_anchor,true
+B0DRP6JJ7F,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0DRP9FS76,Headsets,1833.77,EGP,1833.77,EGP,observed_snapshot_anchor,true
+B0DRPCHDXC,Keyboards,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0DRPMYB75,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0DS5YK7SN,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0DS7SF7BJ,Keyboards,4124.62,EGP,4124.62,EGP,observed_snapshot_anchor,true
+B0DSJ8WYBM,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0DSPJPRXD,Webcams,1471.25,EGP,1471.25,EGP,observed_snapshot_anchor,true
+B0DSZNPVVV,Keyboards,2390.86,EGP,2390.86,EGP,observed_snapshot_anchor,true
+B0DT43NNNF,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0DT71KNGX,Keyboards,5076.29,EGP,5076.29,EGP,observed_snapshot_anchor,true
+B0DT9MMZTL,Webcams,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0DTZ2RM86,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0DV9WRC53,Headsets,7878.58,EGP,7878.58,EGP,observed_snapshot_anchor,true
+B0DVD5RTZ5,Mice and trackballs,6287.75,EGP,6287.75,EGP,observed_snapshot_anchor,true
+B0DVZG36J8,Webcams,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0DW18XKPV,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0DW1DHVYF,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0DW94P1G5,Mice and trackballs,1222.33,EGP,1222.33,EGP,observed_snapshot_anchor,true
+B0DWD3FRK7,Headsets,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0DWHGCQJL,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0DWMX5TXV,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0DWS3R3XP,Mice and trackballs,919.60,EGP,919.60,EGP,observed_snapshot_anchor,true
+B0DWTT6Z7H,Keypads,,,1521.26,EGP,category_median_anchor,true
+B0DX791FXY,Keyboard and mouse bundles,1900.08,EGP,1900.08,EGP,observed_snapshot_anchor,true
+B0DXL239W1,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0DXQ8X9GT,Headsets,2735.98,EGP,2735.98,EGP,observed_snapshot_anchor,true
+B0DXTG8K56,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0DXTV9BGJ,Keyboard and mouse bundles,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0DXV6B53V,Mice and trackballs,833.73,EGP,833.73,EGP,observed_snapshot_anchor,true
+B0DYDMB8ZZ,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0DYMDGHKB,Webcams,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0DYT8DV6J,Webcams,980.47,EGP,980.47,EGP,observed_snapshot_anchor,true
+B0DYV75S7M,Mice and trackballs,1357.66,EGP,1357.66,EGP,observed_snapshot_anchor,true
+B0DYV9NTG5,Headsets,6738.86,EGP,6738.86,EGP,observed_snapshot_anchor,true
+B0DYVD72P2,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0DZ24F4HD,Camera and audio bundles,2716.41,EGP,2716.41,EGP,observed_snapshot_anchor,true
+B0DZ28ZGYL,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DZ65131S,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0DZ6VR9Z8,Webcams,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0DZCKGDYZ,Keyboards,7606.28,EGP,7606.28,EGP,observed_snapshot_anchor,true
+B0DZH6ZGQJ,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0F12L1PLP,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0F18BNX2C,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0F1916442,Mice and trackballs,4564.86,EGP,4564.86,EGP,observed_snapshot_anchor,true
+B0F1D4FLDL,Mice and trackballs,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0F1D7P51F,Mice and trackballs,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0F1DGSZPZ,Headsets,1413.10,EGP,1413.10,EGP,observed_snapshot_anchor,true
+B0F1MKZJMH,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0F1MQDS4J,Mice and trackballs,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0F1RT8L98,Keyboards,1369.08,EGP,1369.08,EGP,observed_snapshot_anchor,true
+B0F1SBZ62T,Webcams,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0F1SJR713,Webcams,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B0F1TYFRYT,Webcams,10999.90,EGP,10999.90,EGP,observed_snapshot_anchor,true
+B0F1V3N383,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0F1XS3JCQ,Keyboards,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0F1YD86Z6,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0F1ZW5BGT,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0F21J9J7V,Webcams,1026.67,EGP,1026.67,EGP,observed_snapshot_anchor,true
+B0F2B7P3X6,Mice and trackballs,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0F2M72VPK,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0F2MNWCB6,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0F2Z2DXW3,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0F32JF94P,Keyboards,2451.18,EGP,2451.18,EGP,observed_snapshot_anchor,true
+B0F32YS56M,Headsets,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0F331217Q,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0F36RKWDH,Keyboard and mouse bundles,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0F37L2DRC,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0F37LY1FN,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0F38J746X,Mice and trackballs,1222.33,EGP,1222.33,EGP,observed_snapshot_anchor,true
+B0F38JMXF2,Mice and trackballs,1216.90,EGP,1216.90,EGP,observed_snapshot_anchor,true
+B0F3CV88XN,Keyboard and mouse bundles,3695.26,EGP,3695.26,EGP,observed_snapshot_anchor,true
+B0F3CZVLFJ,Keyboards,1529.95,EGP,1529.95,EGP,observed_snapshot_anchor,true
+B0F3HPQML2,Keyboards,1651.70,EGP,1651.70,EGP,observed_snapshot_anchor,true
+B0F3JV8SJT,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0F3QDLZKG,Headsets,13533.15,EGP,13533.15,EGP,observed_snapshot_anchor,true
+B0F3XJB7LT,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0F42D481X,Mice and trackballs,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0F42QZ7GN,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0F4CP5LX1,Headsets,1548.43,EGP,1548.43,EGP,observed_snapshot_anchor,true
+B0F4CVVL67,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0F4DQ1TJY,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0F4KJGKYX,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0F4QVBDDR,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0F53GZ67Z,Webcams,4130.06,EGP,4130.06,EGP,observed_snapshot_anchor,true
+B0F54F8NWT,Mice and trackballs,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0F58SM5BT,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0F5HPXN4T,Webcams,4619.21,EGP,4619.21,EGP,observed_snapshot_anchor,true
+B0F5HQ3HJM,Webcams,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0F5PLTZ6M,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0F5QJZH1Q,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0F61T7X1M,Webcams,5959.48,EGP,5959.48,EGP,observed_snapshot_anchor,true
+B0F62JCHBF,Keyboards,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0F6BDV5Q8,Mice and trackballs,1900.62,EGP,1900.62,EGP,observed_snapshot_anchor,true
+B0F6BGRNGR,Mice and trackballs,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0F6CQZKBD,Webcams,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0F6LLH7BF,Headsets,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0F6NFDYJV,Mice and trackballs,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B0F6NGCDFN,Mice and trackballs,6386.12,EGP,6386.12,EGP,observed_snapshot_anchor,true
+B0F6NZWPTC,Headsets,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0F6Q2R2J6,Keypads,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0F6TYSX29,Conference cameras,1031.56,EGP,1031.56,EGP,observed_snapshot_anchor,true
+B0F76C5QC2,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0F76DDBXC,Headsets,2662.61,EGP,2662.61,EGP,observed_snapshot_anchor,true
+B0F76MVLTZ,Headsets,2174.00,EGP,2174.00,EGP,observed_snapshot_anchor,true
+B0F76R9943,Headsets,2445.75,EGP,2445.75,EGP,observed_snapshot_anchor,true
+B0F7QHDTQ6,Headsets,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0F7QXWK9X,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0F7R71Z6Q,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0F7RTZ5SS,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0F7XHX6R9,Mice and trackballs,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0F7XMH5LW,Mice and trackballs,7934.56,EGP,7934.56,EGP,observed_snapshot_anchor,true
+B0F83RFMHP,Keyboards,4352.89,EGP,4352.89,EGP,observed_snapshot_anchor,true
+B0F844LMG3,Headsets,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0F8B2GC5H,Webcams,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0F8H61968,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0F8PZCDM2,Keyboards,4342.02,EGP,4342.02,EGP,observed_snapshot_anchor,true
+B0F8VYDRDP,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0F93FMYD5,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0F94KTF6C,Headsets,3874.07,EGP,3874.07,EGP,observed_snapshot_anchor,true
+B0F99D17MX,Conference cameras,5380.65,EGP,5380.65,EGP,observed_snapshot_anchor,true
+B0F9B8L5X6,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0F9PDRYZK,Mice and trackballs,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0F9SXVF98,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0F9VQ3TVS,Webcams,2036.49,EGP,2036.49,EGP,observed_snapshot_anchor,true
+B0F9VR12LG,Webcams,2036.49,EGP,2036.49,EGP,observed_snapshot_anchor,true
+B0F9WTZXQ9,Keyboards,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0FB151D47,Headsets,3315.35,EGP,3315.35,EGP,observed_snapshot_anchor,true
+B0FB21526X,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FB31ZLR9,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FB34JTXJ,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0FB3R84D1,Headphones and earpieces,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0FB9BR23C,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0FBFZ3XF5,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FBMDBYFK,Webcams,1487.02,EGP,1487.02,EGP,observed_snapshot_anchor,true
+B0FBR1216T,Mice and trackballs,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0FBSFMCX1,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0FBVQ3C8F,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0FBW4MLDJ,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0FBX11154,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0FC1N4G4G,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FC2GH8Z4,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0FC2GSVYG,Mice and trackballs,2137.04,EGP,2137.04,EGP,observed_snapshot_anchor,true
+B0FC2Q2KRZ,Webcams,8151.96,EGP,8151.96,EGP,observed_snapshot_anchor,true
+B0FC5C7VCJ,Mice and trackballs,6413.30,EGP,6413.30,EGP,observed_snapshot_anchor,true
+B0FC5SJNQX,Mice and trackballs,6413.30,EGP,6413.30,EGP,observed_snapshot_anchor,true
+B0FC5V3YVY,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FC5X4F8G,Mice and trackballs,6513.85,EGP,6513.85,EGP,observed_snapshot_anchor,true
+B0FC6CMFXH,Keyboards,5081.18,EGP,5081.18,EGP,observed_snapshot_anchor,true
+B0FCFZ9HWM,Mice and trackballs,1548.43,EGP,1548.43,EGP,observed_snapshot_anchor,true
+B0FCM7B2X6,Mice and trackballs,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0FCX8FS3S,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0FD5276Z6,Keyboards,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0FD5DP9CC,Mice and trackballs,4293.11,EGP,4293.11,EGP,observed_snapshot_anchor,true
+B0FD9CYFT8,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FD9K7DKS,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0FDB2JMJB,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0FDFQVZYG,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0FDFZLCMM,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FDFZVYV7,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FDG2PRNH,Keyboards,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0FDG2RQTL,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FDKPF9QJ,Keyboards,2825.66,EGP,2825.66,EGP,observed_snapshot_anchor,true
+B0FDQFRV8P,Keyboards,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0FDQK4XCJ,Keyboards,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0FDQQS8K2,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FDVZ5X38,Keyboard and mouse bundles,3043.06,EGP,3043.06,EGP,observed_snapshot_anchor,true
+B0FF42RQMV,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0FF8YGB1N,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FF9WN7R1,Keyboards,3477.86,EGP,3477.86,EGP,observed_snapshot_anchor,true
+B0FFGD42TM,Keyboards,7606.28,EGP,7606.28,EGP,observed_snapshot_anchor,true
+B0FFM18D66,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0FFM5SP6M,Headsets,7063.87,EGP,7063.87,EGP,observed_snapshot_anchor,true
+B0FFM8MVWQ,Mice and trackballs,1385.38,EGP,1385.38,EGP,observed_snapshot_anchor,true
+B0FFSXCZLV,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0FFT4W8MR,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0FFXZ9XQ4,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0FG6JNWBS,Keyboards,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0FG8DKV2N,Keyboards,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0FGDNBSHS,Webcams,488.61,EGP,488.61,EGP,observed_snapshot_anchor,true
+B0FGGZK4X7,Keyboards,5977.96,EGP,5977.96,EGP,observed_snapshot_anchor,true
+B0FGJ6MHCT,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0FGXHQR8S,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FGYBW71Y,Keyboards,896.23,EGP,896.23,EGP,observed_snapshot_anchor,true
+B0FH411FNB,Keyboard and mouse bundles,1716.37,EGP,1716.37,EGP,observed_snapshot_anchor,true
+B0FH4BC4GN,Webcams,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0FH4NTT56,Mice and trackballs,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0FH5XX7GP,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0FH5YWH7B,Headsets,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0FH88CY7L,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0FHJZCX4H,Webcams,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0FHQ2TNSS,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FHVQ339H,Keyboards,1962.04,EGP,1962.04,EGP,observed_snapshot_anchor,true
+B0FJ2WXDRY,Headsets,18913.80,EGP,18913.80,EGP,observed_snapshot_anchor,true
+B0FJ3WX2L9,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0FJ3ZR3B6,Headsets,7119.31,EGP,7119.31,EGP,observed_snapshot_anchor,true
+B0FJ54Q9DH,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FJ86FD5N,Webcams,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0FJCFFJKX,Mice and trackballs,6847.56,EGP,6847.56,EGP,observed_snapshot_anchor,true
+B0FJCR3DDF,Conference cameras,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0FJFS84SC,Mice and trackballs,1858.23,EGP,1858.23,EGP,observed_snapshot_anchor,true
+B0FJL64Y65,Keyboards,2162.04,EGP,2162.04,EGP,observed_snapshot_anchor,true
+B0FJLNQ1PP,Keyboard and mouse bundles,2309.33,EGP,2309.33,EGP,observed_snapshot_anchor,true
+B0FJQVD15L,Keyboard and mouse bundles,2662.61,EGP,2662.61,EGP,observed_snapshot_anchor,true
+B0FJWMGFF5,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0FJWP1KCD,Keyboard and mouse bundles,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0FJX44VCL,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FJXLBWWT,Headsets,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0FJXVCPFJ,Mice and trackballs,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0FJXY1435,Conference cameras,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0FK56GW7B,Keyboards,5380.11,EGP,5380.11,EGP,observed_snapshot_anchor,true
+B0FK8XK6P9,Conference cameras,1520.71,EGP,1520.71,EGP,observed_snapshot_anchor,true
+B0FKCYLM55,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0FKHNFR8G,Keyboards,7608.46,EGP,7608.46,EGP,observed_snapshot_anchor,true
+B0FKJ2J2R8,Mice and trackballs,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0FKMWX32S,Mice and trackballs,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0FKTFMH2F,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FL1RKQF7,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FL2GNNH2,Conference cameras,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0FLCTSJVP,Mice and trackballs,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0FLF5S9XQ,Conference cameras,21685.65,EGP,21685.65,EGP,observed_snapshot_anchor,true
+B0FLJ5GZHG,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0FLJGL5DS,Mice and trackballs,866.88,EGP,866.88,EGP,observed_snapshot_anchor,true
+B0FLKRYRP1,Headsets,8098.15,EGP,8098.15,EGP,observed_snapshot_anchor,true
+B0FLPVFNJZ,Webcams,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0FLQ51Q8J,Keyboards,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0FLVGY5HZ,Keyboard and mouse bundles,1858.23,EGP,1858.23,EGP,observed_snapshot_anchor,true
+B0FM2YSP5Q,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0FM4CWGRG,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FM82BBFP,Webcams,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0FMNK1S1N,Keyboard and mouse bundles,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0FMQWYP3T,Webcams,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0FN3BTV64,Conference cameras,3203.93,EGP,3203.93,EGP,observed_snapshot_anchor,true
+B0FN6Q369Y,Keyboards,3233.28,EGP,3233.28,EGP,observed_snapshot_anchor,true
+B0FN7K443F,Mice and trackballs,1575.06,EGP,1575.06,EGP,observed_snapshot_anchor,true
+B0FNBLG4SB,Webcams,6141.01,EGP,6141.01,EGP,observed_snapshot_anchor,true
+B0FNBLG4SD,Webcams,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B0FNBNZPBH,Webcams,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B0FNBP5WGM,Webcams,6141.01,EGP,6141.01,EGP,observed_snapshot_anchor,true
+B0FNC1F2MR,Webcams,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B0FNFTBG8Z,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0FNMWSR5C,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0FNR89PXQ,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0FNRKG942,Keyboards,3912.66,EGP,3912.66,EGP,observed_snapshot_anchor,true
+B0FNWR5MMK,Keyboard and mouse bundles,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0FP1SW8P5,Headsets,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0FP1TRW4L,Headsets,5162.71,EGP,5162.71,EGP,observed_snapshot_anchor,true
+B0FP1YT84W,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0FP2HW9T2,Keyboards,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0FP4XF52Z,Keyboard and mouse bundles,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FP7CL37H,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0FPFTF4NH,Mice and trackballs,1814.75,EGP,1814.75,EGP,observed_snapshot_anchor,true
+B0FPG76W39,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0FPLX3W8V,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FPR2GR6F,Keyboards,2942.51,EGP,2942.51,EGP,observed_snapshot_anchor,true
+B0FPWR96KY,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0FQ41JL7C,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FQ451MTW,Webcams,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B0FQ57MYVH,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FQ5G7DG6,Mice and trackballs,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0FQ5NRQ8M,Webcams,10815.65,EGP,10815.65,EGP,observed_snapshot_anchor,true
+B0FQ5Q1TRX,Headsets,1790.83,EGP,1790.83,EGP,observed_snapshot_anchor,true
+B0FQ63CXD5,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0FQB7CW9G,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FQC1SQM2,Webcams,2933.81,EGP,2933.81,EGP,observed_snapshot_anchor,true
+B0FQCFSHPQ,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FQFSFV1H,Mice and trackballs,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0FQJ3HBBW,Keyboards,3912.66,EGP,3912.66,EGP,observed_snapshot_anchor,true
+B0FQL6QDKD,Mice and trackballs,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0FQMLGVQ7,Keyboards,646.22,EGP,646.22,EGP,observed_snapshot_anchor,true
+B0FQVGRRZZ,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0FQW9SGJS,Mice and trackballs,2137.04,EGP,2137.04,EGP,observed_snapshot_anchor,true
+B0FQWKS7WL,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FR456Q62,Mice and trackballs,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0FR4KJM85,Mice and trackballs,325.56,EGP,325.56,EGP,observed_snapshot_anchor,true
+B0FR87BT6R,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0FR8C3NGP,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FR8LXGFQ,Conference cameras,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FR8MFRH5,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FR8VK73M,Webcams,8641.65,EGP,8641.65,EGP,observed_snapshot_anchor,true
+B0FRFTHWGR,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FRFZMJLX,Keyboards,3912.66,EGP,3912.66,EGP,observed_snapshot_anchor,true
+B0FRM82W53,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FRN2Z4JF,Mice and trackballs,5432.28,EGP,5432.28,EGP,observed_snapshot_anchor,true
+B0FRNHBVFY,Headsets,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0FRNR8Y11,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0FRPH94LH,Headsets,9238.96,EGP,9238.96,EGP,observed_snapshot_anchor,true
+B0FRR9PLMS,Keyboards,5081.18,EGP,5081.18,EGP,observed_snapshot_anchor,true
+B0FRT1K56P,Mice and trackballs,7064.96,EGP,7064.96,EGP,observed_snapshot_anchor,true
+B0FS1FRNR7,Keyboard and mouse bundles,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0FS1FYYB4,Keyboards,4401.81,EGP,4401.81,EGP,observed_snapshot_anchor,true
+B0FS5PYPKY,Webcams,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0FSDBRSD7,Headsets,976.67,EGP,976.67,EGP,observed_snapshot_anchor,true
+B0FSG67VPX,Mice and trackballs,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0FSJHP6Z8,Mice and trackballs,813.62,EGP,813.62,EGP,observed_snapshot_anchor,true
+B0FSKF2TGX,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FSQLVXHR,Keyboard and mouse bundles,1075.59,EGP,1075.59,EGP,observed_snapshot_anchor,true
+B0FTFYZDVJ,Headsets,14130.46,EGP,14130.46,EGP,observed_snapshot_anchor,true
+B0FV7SJGVT,Headsets,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0FVFTYK5T,Keyboards,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0FVKDM5KJ,Headsets,2660.43,EGP,2660.43,EGP,observed_snapshot_anchor,true
+B0FVL4663D,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0FVLTDBNV,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0FVWM9F58,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0FVXLQB8M,Keyboards,704.92,EGP,704.92,EGP,observed_snapshot_anchor,true
+B0FWK4HJK8,Webcams,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B0FWKFTP85,Conference cameras,14673.96,EGP,14673.96,EGP,observed_snapshot_anchor,true
+B0FWQN4VL1,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FWR3P1FT,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0FWRT8982,Conference cameras,21739.46,EGP,21739.46,EGP,observed_snapshot_anchor,true
+B0FWRWFNVR,Keyboards,3259.91,EGP,3259.91,EGP,observed_snapshot_anchor,true
+B0FWRXJR85,Headsets,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0FWY16N4V,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0FWY2ZS6M,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FX2QJ6B4,Mice and trackballs,977.21,EGP,977.21,EGP,observed_snapshot_anchor,true
+B0FX4M9KQN,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0FX5QMB6K,Webcams,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0FX8WJBGK,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0FX9XFBFC,Mice and trackballs,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0FXLRDFYH,Headsets,538.06,EGP,538.06,EGP,observed_snapshot_anchor,true
+B0FXM34ZJ9,Webcams,1901.16,EGP,1901.16,EGP,observed_snapshot_anchor,true
+B0FY2XRSJX,Keyboards,4021.36,EGP,4021.36,EGP,observed_snapshot_anchor,true
+B0FY3618X7,Keyboards,3695.26,EGP,3695.26,EGP,observed_snapshot_anchor,true
+B0FY4KCL81,Mice and trackballs,7603.56,EGP,7603.56,EGP,observed_snapshot_anchor,true
+B0FY5LNRCK,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0FY5M888K,Mice and trackballs,2172.91,EGP,2172.91,EGP,observed_snapshot_anchor,true
+B0FY5VBKSF,Webcams,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0FYNPMSZ2,Mice and trackballs,434.26,EGP,434.26,EGP,observed_snapshot_anchor,true
+B0FZ9KGRSQ,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0FZBFNZBX,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0G12HGHGM,Mice and trackballs,9777.02,EGP,9777.02,EGP,observed_snapshot_anchor,true
+B0G12K3GD6,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0G13HB8JZ,Keyboard and mouse bundles,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0G13JTSY9,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0G1BH93WH,Keyboard and mouse bundles,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0G1CPTN1F,Mice and trackballs,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0G1MMTXDS,Mice and trackballs,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0G24ZCB6T,Keyboards,5432.28,EGP,5432.28,EGP,observed_snapshot_anchor,true
+B0G29MV7GK,Webcams,706.01,EGP,706.01,EGP,observed_snapshot_anchor,true
+B0G2L2YC9D,Conference cameras,18968.15,EGP,18968.15,EGP,observed_snapshot_anchor,true
+B0G2R13G1Q,Webcams,1341.36,EGP,1341.36,EGP,observed_snapshot_anchor,true
+B0G2RDK8RZ,Webcams,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0G32KBWGC,Mice and trackballs,1075.59,EGP,1075.59,EGP,observed_snapshot_anchor,true
+B0G33K72F5,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0G3952546,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0G39J5KQQ,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0G3GDPVB3,Keyboard and mouse bundles,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0G3NM4NCN,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0G3PCSK8B,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0G3PN1VS4,Keyboards,16304.46,EGP,16304.46,EGP,observed_snapshot_anchor,true
+B0G3PTHM36,Keyboards,3640.91,EGP,3640.91,EGP,observed_snapshot_anchor,true
+B0G3SSQMJQ,Webcams,10869.46,EGP,10869.46,EGP,observed_snapshot_anchor,true
+B0G3T1QKWL,Conference cameras,13586.96,EGP,13586.96,EGP,observed_snapshot_anchor,true
+B0G43GNH66,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0G4CSZ755,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0G4LGMX8M,Keyboards,4401.81,EGP,4401.81,EGP,observed_snapshot_anchor,true
+B0G4MDV9WH,Conference cameras,5869.26,EGP,5869.26,EGP,observed_snapshot_anchor,true
+B0G4RZXZW4,Webcams,27174.46,EGP,27174.46,EGP,observed_snapshot_anchor,true
+B0G4V76JFT,Mice and trackballs,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B0G4W99L2Y,Keyboard and mouse bundles,1754.96,EGP,1754.96,EGP,observed_snapshot_anchor,true
+B0G56TCBT6,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0G5GW845L,Webcams,847.86,EGP,847.86,EGP,observed_snapshot_anchor,true
+B0G5P4K1G6,Mice and trackballs,1306.57,EGP,1306.57,EGP,observed_snapshot_anchor,true
+B0G5PGG1CK,Mice and trackballs,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0G5PXP8VC,Mice and trackballs,542.41,EGP,542.41,EGP,observed_snapshot_anchor,true
+B0G5PZDPV8,Keyboards,3640.91,EGP,3640.91,EGP,observed_snapshot_anchor,true
+B0G5Z7T7Z9,Headsets,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0G636CXQM,Conference cameras,16794.15,EGP,16794.15,EGP,observed_snapshot_anchor,true
+B0G63LXK6R,Webcams,9185.15,EGP,9185.15,EGP,observed_snapshot_anchor,true
+B0G6JMRP45,Webcams,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0G6L2WHKG,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0G6Z23YG9,Headsets,1368.53,EGP,1368.53,EGP,observed_snapshot_anchor,true
+B0G6ZZ95GB,Keyboards,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0G76X6Z2R,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0G7BCPSMP,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0G7D8DY91,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0G7DTZHMP,Webcams,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0G7TCMBM9,Headsets,2712.06,EGP,2712.06,EGP,observed_snapshot_anchor,true
+B0G7XNK9T9,Keyboard and mouse bundles,1765.29,EGP,1765.29,EGP,observed_snapshot_anchor,true
+B0G7Y58WLN,Headsets,1083.20,EGP,1083.20,EGP,observed_snapshot_anchor,true
+B0G7YFFW4V,Headsets,2934.36,EGP,2934.36,EGP,observed_snapshot_anchor,true
+B0G8HJTJJD,Webcams,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0G936F934,Webcams,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0GBXDD4MH,Headsets,9248.20,EGP,9248.20,EGP,observed_snapshot_anchor,true
+B0GCDXX2GN,Keyboards,5380.11,EGP,5380.11,EGP,observed_snapshot_anchor,true
+B0GCJXW1M5,Mice and trackballs,325.56,EGP,325.56,EGP,observed_snapshot_anchor,true
+B0GCK1Z6XK,Conference cameras,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0GCLTDH8T,Keyboards,4206.15,EGP,4206.15,EGP,observed_snapshot_anchor,true
+B0GCNMZLGN,Keyboards,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GCYR5Q3M,Webcams,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0GCYZVCSD,Webcams,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0GCZNDB69,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GD55C2VQ,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GDD42642,Keyboards,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GDWDFQW8,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GDZSQQXP,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GF1NH9D5,Keyboard and mouse bundles,1085.91,EGP,1085.91,EGP,observed_snapshot_anchor,true
+B0GF1PQ91X,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GF1VMNJP,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0GF28SKGZ,Webcams,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0GF2V7KJ6,Conference cameras,434.26,EGP,434.26,EGP,observed_snapshot_anchor,true
+B0GF63SSRY,Mice and trackballs,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0GF6GTTDX,Headsets,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0GFD6VZ3F,Conference cameras,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0GFDWXFJW,Headsets,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B0GFNF4CPG,Headsets,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0GFSN5GSH,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GFW8ZRL7,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0GFYHYCB3,Mice and trackballs,10325.96,EGP,10325.96,EGP,observed_snapshot_anchor,true
+B0GGH69DL3,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0GGRR6ZB4,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0GGRTWP89,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GHMT6PC5,Webcams,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0GHRZZPP9,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0GJ4T3HSB,Mice and trackballs,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GJ4V9XFJ,Keyboards,7228.01,EGP,7228.01,EGP,observed_snapshot_anchor,true
+B0GJ542V7Q,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GJD6PHTZ,Webcams,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GJDRQ39H,Mice and trackballs,922.86,EGP,922.86,EGP,observed_snapshot_anchor,true
+B0GJS7KXJZ,Keyboard and mouse bundles,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0GJYWNH8K,Keyboard and mouse bundles,1954.97,EGP,1954.97,EGP,observed_snapshot_anchor,true
+B0GK1TRS83,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0GK4XCMRC,Conference cameras,18424.65,EGP,18424.65,EGP,observed_snapshot_anchor,true
+B0GK5WH85D,Webcams,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GK6W6PKW,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GK8NZL7N,Mice and trackballs,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0GK8SLHQ1,Mice and trackballs,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0GK95S8ST,Mice and trackballs,999.50,EGP,999.50,EGP,observed_snapshot_anchor,true
+B0GKD2Q48Q,Headsets,1271.25,EGP,1271.25,EGP,observed_snapshot_anchor,true
+B0GKG8F53K,Keyboards,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0GKGYNDWC,Webcams,7717.16,EGP,7717.16,EGP,observed_snapshot_anchor,true
+B0GKL19FJW,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0GL2FG2WW,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GL5Q7F27,Keyboards,4896.39,EGP,4896.39,EGP,observed_snapshot_anchor,true
+B0GL6M1KTD,Keyboards,1075.59,EGP,1075.59,EGP,observed_snapshot_anchor,true
+B0GL6ZJDX4,Mice and trackballs,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0GL7JV88F,Keyboards,4896.39,EGP,4896.39,EGP,observed_snapshot_anchor,true
+B0GL7P4WM6,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GL7XC1NG,Keyboards,3233.28,EGP,3233.28,EGP,observed_snapshot_anchor,true
+B0GL7Z6Y5L,Keyboards,4037.12,EGP,4037.12,EGP,observed_snapshot_anchor,true
+B0GLDFSDS8,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0GLFCP5PP,Keyboards,5162.71,EGP,5162.71,EGP,observed_snapshot_anchor,true
+B0GLMB5JC8,Mice and trackballs,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0GLP72SYJ,Webcams,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0GLXK1PPS,Webcams,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0GLXLRBXX,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0GLY56CR3,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0GM4V4GPV,Mice and trackballs,3517.53,EGP,3517.53,EGP,observed_snapshot_anchor,true
+B0GMDPWGFM,Webcams,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0GMDWZXRK,Webcams,1908.77,EGP,1908.77,EGP,observed_snapshot_anchor,true
+B0GMG7ZNNZ,Mice and trackballs,4646.38,EGP,4646.38,EGP,observed_snapshot_anchor,true
+B0GMLBSSTD,Mice and trackballs,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0GMLD33GY,Mice and trackballs,8695.46,EGP,8695.46,EGP,observed_snapshot_anchor,true
+B0GMM88ZTW,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0GMQ1SBXZ,Keyboard and mouse bundles,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0GMT9CXH5,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GN699T1N,Headsets,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0GNCV2XX3,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0GND1LTH6,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0GNDF8PFN,Headsets,7608.46,EGP,7608.46,EGP,observed_snapshot_anchor,true
+B0GPWTY8K7,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GPX33BS2,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0GPXFCXB5,Conference cameras,18478.46,EGP,18478.46,EGP,observed_snapshot_anchor,true
+B0GQ2DCYBW,Keyboard and mouse bundles,1954.97,EGP,1954.97,EGP,observed_snapshot_anchor,true
+B0GQRQYNNN,Keyboard and mouse bundles,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0GQXJ71LR,Webcams,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0GQYZG7HN,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GR16TZ7N,Webcams,434.26,EGP,434.26,EGP,observed_snapshot_anchor,true
+B0GR55N3TM,Headsets,2337.59,EGP,2337.59,EGP,observed_snapshot_anchor,true
+B0GR5WKW9F,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0GR5YD43T,Webcams,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0GR8B359M,Conference cameras,21739.46,EGP,21739.46,EGP,observed_snapshot_anchor,true
+B0GR9H1YTQ,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0GRMJ2GL9,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GRTBHX2Q,Webcams,1847.36,EGP,1847.36,EGP,observed_snapshot_anchor,true
+B0GRZW9XQR,Keyboard and mouse bundles,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0GSD7WG8B,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0GSD8551J,Mice and trackballs,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0GSPGRWVN,Headsets,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0GSRQXLHB,Webcams,10272.15,EGP,10272.15,EGP,observed_snapshot_anchor,true
+B0GSTJPKGR,Webcams,1031.02,EGP,1031.02,EGP,observed_snapshot_anchor,true
+B0GSVQXRCM,Mice and trackballs,1059.28,EGP,1059.28,EGP,observed_snapshot_anchor,true
+B0GSVTRRTD,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GT2YHTNV,Mice and trackballs,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0GT3SB2ZQ,Mice and trackballs,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0GTGB36DB,Mice and trackballs,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0GTHSX213,Headsets,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0GTP9J92V,Keyboards,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0GTPXPZ4D,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GTQ664T7,Headsets,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0GTRNGL28,Headsets,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0GTX55LJY,Mice and trackballs,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0GTX5TPCG,Headsets,5162.71,EGP,5162.71,EGP,observed_snapshot_anchor,true
+B0GTY7H2S3,Keyboards,7606.28,EGP,7606.28,EGP,observed_snapshot_anchor,true
+B0GV4B57ST,Webcams,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B0GV4GYD1F,Webcams,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0GV7M8FR6,Headsets,2282.16,EGP,2282.16,EGP,observed_snapshot_anchor,true
+B0GV8VL4KG,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GVDN8YW1,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GVDX4G2Q,Conference cameras,8858.51,EGP,8858.51,EGP,observed_snapshot_anchor,true
+B0GVF34N1G,Keyboards,4249.63,EGP,4249.63,EGP,observed_snapshot_anchor,true
+B0GVJNRGXP,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0GVL9CQQM,Keyboard and mouse bundles,,,1955.51,EGP,category_median_anchor,true
+B0GVQ3MRY5,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0GVQ99JB5,Keyboards,,,2716.96,EGP,category_median_anchor,true
+B0GVTPZXPQ,Webcams,1173.42,EGP,1173.42,EGP,observed_snapshot_anchor,true
+B0GW2JYQNZ,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0GW95B1Z8,Keyboards,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0GWC66XZ4,Keyboards,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0GWDYHYL5,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0GWHFTZMY,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0GWJ7RH5B,Headsets,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0GWJ81WJ2,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GWM3851R,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GWPZFT81,Headsets,2309.33,EGP,2309.33,EGP,observed_snapshot_anchor,true
+B0GWQ8SJPB,Webcams,2282.16,EGP,2282.16,EGP,observed_snapshot_anchor,true
+B0GWXYW5ZV,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GWZ33NFN,Keyboard and mouse bundles,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0GX1MG9YK,Headsets,2934.36,EGP,2934.36,EGP,observed_snapshot_anchor,true
+B0GX5BPDQ5,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0GX8G5HPK,Keyboard and mouse bundles,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0GX94B2T6,Webcams,5380.65,EGP,5380.65,EGP,observed_snapshot_anchor,true
+B0GX9VB3R7,Webcams,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0GXDWMGV5,Webcams,2716.41,EGP,2716.41,EGP,observed_snapshot_anchor,true
+B0GXKJWH2H,Keyboards,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0GXKR5ZZ4,Webcams,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0GXKSHK2Q,Webcams,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0GXT9CXT1,Webcams,2172.91,EGP,2172.91,EGP,observed_snapshot_anchor,true
+B0GXTV1N6L,Keyboards,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0GXVLC1CX,Webcams,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0GXYQRXD5,Headsets,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0GY57QM6L,Headsets,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0GY5C3JV7,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0GY8H6N33,Headsets,976.67,EGP,976.67,EGP,observed_snapshot_anchor,true
+B0GYLX96SQ,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0GYMW9N6P,Webcams,2706.09,EGP,2706.09,EGP,observed_snapshot_anchor,true
+B0GYMZWVJ1,Keyboards,3695.26,EGP,3695.26,EGP,observed_snapshot_anchor,true
+B0GYQXZKZM,Webcams,2443.58,EGP,2443.58,EGP,observed_snapshot_anchor,true
+B0GYS87N18,Keyboard and mouse bundles,1955.51,EGP,1955.51,EGP,observed_snapshot_anchor,true
+B0GYSC2K74,Keyboards,2553.91,EGP,2553.91,EGP,observed_snapshot_anchor,true
+B0GYWNQJ93,Mice and trackballs,2059.32,EGP,2059.32,EGP,observed_snapshot_anchor,true
+B0GZ2ZCDHX,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0GZP9RG6X,Keyboards,1358.21,EGP,1358.21,EGP,observed_snapshot_anchor,true
+B0GZY5VR22,Mice and trackballs,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0GZYT25QJ,Keyboards,2934.36,EGP,2934.36,EGP,observed_snapshot_anchor,true
+B0GZZFVBK1,Mice and trackballs,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0H1148S2F,Keyboards,2706.09,EGP,2706.09,EGP,observed_snapshot_anchor,true
+B0H117K9QV,Keyboards,922.86,EGP,922.86,EGP,observed_snapshot_anchor,true
+B0H15C7HP2,Headsets,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0H196BVWH,Keyboard and mouse bundles,1369.08,EGP,1369.08,EGP,observed_snapshot_anchor,true
+B0H1CJVZHL,Mice and trackballs,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0H1CYP67F,Webcams,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0H1JN8QGV,Keyboard and mouse bundles,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0H1KXX5TL,Mice and trackballs,2119.11,EGP,2119.11,EGP,observed_snapshot_anchor,true
+B0H1M89QXY,Headsets,1412.56,EGP,1412.56,EGP,observed_snapshot_anchor,true
+B0H1QKPT18,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0H1R4CQX4,Headsets,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0H1W8BKLF,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H23V52CH,Webcams,1148.96,EGP,1148.96,EGP,observed_snapshot_anchor,true
+B0H29Y4CQW,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H2DGTZB7,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H2F9T6Z6,Webcams,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0H2G8B23W,Webcams,2880.01,EGP,2880.01,EGP,observed_snapshot_anchor,true
+B0H2GP2PN4,Webcams,2390.86,EGP,2390.86,EGP,observed_snapshot_anchor,true
+B0H2LBH368,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0H2S2W17V,Headphones and earpieces,1496.80,EGP,1496.80,EGP,observed_snapshot_anchor,true
+B0H2TW2VCG,Keyboards,4184.41,EGP,4184.41,EGP,observed_snapshot_anchor,true
+B0H2V14V28,Webcams,434.26,EGP,434.26,EGP,observed_snapshot_anchor,true
+B0H2V4D9PN,Keyboards,5054.01,EGP,5054.01,EGP,observed_snapshot_anchor,true
+B0H2YQ2G11,Keyboard and mouse bundles,1955.51,EGP,1955.51,EGP,observed_snapshot_anchor,true
+B0H2Z6W2SJ,Headsets,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0H32KD4WQ,Keyboard and mouse bundles,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0H331RY7K,Mice and trackballs,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0H345TKSW,Keyboards,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0H35VVMQ1,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H366PN6W,Keyboard and mouse bundles,1955.51,EGP,1955.51,EGP,observed_snapshot_anchor,true
+B0H38P9HYH,Headsets,1629.41,EGP,1629.41,EGP,observed_snapshot_anchor,true
+B0H3C1L3F4,Headsets,3043.06,EGP,3043.06,EGP,observed_snapshot_anchor,true
+B0H3JHQGYX,Webcams,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0H3LFK424,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0H3N53M52,Headsets,597.31,EGP,597.31,EGP,observed_snapshot_anchor,true
+B0H3SR33PT,Headsets,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B0H3T7ZNP7,Headsets,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B0H3TRN2RK,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0H41K1B9Z,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0H44N5LHW,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H45DDZQM,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H4F9J21S,Headsets,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0H4MFP6VL,Mice and trackballs,1858.23,EGP,1858.23,EGP,observed_snapshot_anchor,true
+B0H4SBT4SH,Mice and trackballs,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0H4SV2N6S,Keyboards,2064.76,EGP,2064.76,EGP,observed_snapshot_anchor,true
+B0H4X9J6JS,Mice and trackballs,6521.46,EGP,6521.46,EGP,observed_snapshot_anchor,true
+B0H5HWY358,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0H5J2P5RS,Webcams,4883.35,EGP,4883.35,EGP,observed_snapshot_anchor,true
+B0H5J35GGT,Conference cameras,1793.01,EGP,1793.01,EGP,observed_snapshot_anchor,true
+B0H5K79G4Z,Headsets,2988.71,EGP,2988.71,EGP,observed_snapshot_anchor,true
+B0H5PJ66Z4,Keyboards,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0H5PPBJCL,Webcams,3586.56,EGP,3586.56,EGP,observed_snapshot_anchor,true
+B0H5QGQYTP,Webcams,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0H5WF7KCY,Keyboard and mouse bundles,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0H6BC9VQS,Keyboards,4888.78,EGP,4888.78,EGP,observed_snapshot_anchor,true
+B0H6BHJ5TC,Headsets,2716.41,EGP,2716.41,EGP,observed_snapshot_anchor,true
+B0H6DVPK29,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H6JBTP67,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0H6P2DWXD,Webcams,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0H6PP19ZG,Mice and trackballs,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0H6SRQ9HM,Keyboard and mouse bundles,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0H6W3HFKD,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H7489FRB,Headsets,1575.61,EGP,1575.61,EGP,observed_snapshot_anchor,true
+B0H75JPZHR,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0H7C3F9DH,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0H7C6QQYB,Headsets,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0H7H4VWH7,Headsets,2877.83,EGP,2877.83,EGP,observed_snapshot_anchor,true
+B0H7H64M8R,Headsets,3532.21,EGP,3532.21,EGP,observed_snapshot_anchor,true
+B0H7HQW8LF,Headsets,8343.81,EGP,8343.81,EGP,observed_snapshot_anchor,true
+B0H7Q644KW,Keyboard and mouse bundles,2580.54,EGP,2580.54,EGP,observed_snapshot_anchor,true
+B0H7QWPC61,Keyboards,1303.86,EGP,1303.86,EGP,observed_snapshot_anchor,true
+B0H7S53ZXG,Conference cameras,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0H811VGKC,Headsets,17356.67,EGP,17356.67,EGP,observed_snapshot_anchor,true
+B0H86XMMP2,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0H86XRFR5,Headsets,651.66,EGP,651.66,EGP,observed_snapshot_anchor,true
+B0H8BF5Z17,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H8BHH5QV,Mice and trackballs,,,1357.66,EGP,category_median_anchor,true
+B0H8CJBMXX,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H8D3MRKH,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0H8D6VSFQ,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H8L59TJ2,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H8LQZ3R1,Headsets,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0H8LTDX93,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H8NYJVJB,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0H8PGR41R,Headsets,1956.06,EGP,1956.06,EGP,observed_snapshot_anchor,true
+B0H8PJVXNC,Headsets,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0H8X2HXLN,Headsets,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0H94TMVXY,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0H94TVP9S,Webcams,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0H9CC8JCZ,Keyboards,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H9CD688S,Headsets,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0H9KZ9T9Q,Headsets,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0H9M31QWD,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0H9R9YGT7,Mice and trackballs,379.91,EGP,379.91,EGP,observed_snapshot_anchor,true
+B0H9RJWWGY,Keyboards,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0H9RL2WQP,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0H9SGLB3K,Mice and trackballs,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0H9WPGBHG,Keyboard and mouse bundles,1858.23,EGP,1858.23,EGP,observed_snapshot_anchor,true
+B0H9WSYH9T,Keyboard and mouse bundles,1901.71,EGP,1901.71,EGP,observed_snapshot_anchor,true
+B0H9Y9XVJ1,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0HB2T4188,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HB94VRZ6,Keyboard and mouse bundles,1629.41,EGP,1629.41,EGP,observed_snapshot_anchor,true
+B0HBBNWPC2,Keyboard and mouse bundles,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HBBQQW92,Webcams,1352.77,EGP,1352.77,EGP,observed_snapshot_anchor,true
+B0HBBZDD6L,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0HBHJWK5R,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0HBHXHZCK,Webcams,928.84,EGP,928.84,EGP,observed_snapshot_anchor,true
+B0HBJYBNV8,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HBPNQWGF,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HBPP5PXM,Webcams,2150.09,EGP,2150.09,EGP,observed_snapshot_anchor,true
+B0HBPXC4VX,Headsets,2445.21,EGP,2445.21,EGP,observed_snapshot_anchor,true
+B0HBQ61ZMQ,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0HBQBBH2X,Conference cameras,16304.46,EGP,16304.46,EGP,observed_snapshot_anchor,true
+B0HBZ2CH25,Headsets,2715.87,EGP,2715.87,EGP,observed_snapshot_anchor,true
+B0HC1L74SV,Keyboard and mouse bundles,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0HC1LCXCT,Conference cameras,15163.65,EGP,15163.65,EGP,observed_snapshot_anchor,true
+B0HC2LYFWH,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0HC3CKJBY,Headsets,3423.51,EGP,3423.51,EGP,observed_snapshot_anchor,true
+B0HC3M9L99,Headsets,869.06,EGP,869.06,EGP,observed_snapshot_anchor,true
+B0HC62VNCK,Webcams,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0HC6Q44Q7,Webcams,2499.56,EGP,2499.56,EGP,observed_snapshot_anchor,true
+B0HC6Q4KWQ,Streaming cameras,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0HCHMVBLM,Webcams,2004.97,EGP,2004.97,EGP,observed_snapshot_anchor,true
+B0HCKDB21W,Mice and trackballs,379.91,EGP,379.91,EGP,observed_snapshot_anchor,true
+B0HCKDCRX4,Mice and trackballs,379.91,EGP,379.91,EGP,observed_snapshot_anchor,true
+B0HCT6LHBS,Headsets,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0HCVZ4WKY,Headsets,2172.91,EGP,2172.91,EGP,observed_snapshot_anchor,true
+B0HCXTMP75,Keyboard and mouse bundles,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0HD5YJ4DC,Headsets,4075.71,EGP,4075.71,EGP,observed_snapshot_anchor,true
+B0HD65YG33,Keyboards,1858.23,EGP,1858.23,EGP,observed_snapshot_anchor,true
+B0HD6TCG7V,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HD9ZHHQG,Headsets,923.41,EGP,923.41,EGP,observed_snapshot_anchor,true
+B0HDC2KHBQ,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HDC6W38W,Mice and trackballs,1249.51,EGP,1249.51,EGP,observed_snapshot_anchor,true
+B0HDC8W32Y,Keyboard and mouse bundles,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HDT3RMC9,Headsets,2390.31,EGP,2390.31,EGP,observed_snapshot_anchor,true
+B0HDYQ2GPP,Headsets,3097.41,EGP,3097.41,EGP,observed_snapshot_anchor,true
+B0HDZNDKCN,Keyboards,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0HF34F2FY,Keyboards,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HF464M9C,Headsets,2716.41,EGP,2716.41,EGP,observed_snapshot_anchor,true
+B0HF4DMCJJ,Webcams,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HF4JWBDP,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HF4QB9F1,Conference cameras,,,8776.99,EGP,category_median_anchor,true
+B0HF5BTY12,Headsets,1521.26,EGP,1521.26,EGP,observed_snapshot_anchor,true
+B0HFHSJGTF,Keyboards,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HFK6LTGF,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HFN6H5C1,Webcams,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HFQZSDWP,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0HFR43JLG,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0HFR7GFTQ,Headsets,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0HFRF9ZQ4,Headsets,760.36,EGP,760.36,EGP,observed_snapshot_anchor,true
+B0HFRKCH8X,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0HFRQLP8S,Webcams,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0HFRRSNXY,Mice and trackballs,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0HFRWM9CX,Headsets,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0HFSBYNCQ,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0HFVT7SDM,Headsets,977.76,EGP,977.76,EGP,observed_snapshot_anchor,true
+B0HFVWFPLT,Headsets,1195.16,EGP,1195.16,EGP,observed_snapshot_anchor,true
+B0HG8JL4DR,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HGDW3Q54,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HGF6H2QQ,Headsets,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0HGFCS9MS,Headsets,,,2322.92,EGP,category_median_anchor,true
+B0HGFFPF3Q,Headsets,2336.51,EGP,2336.51,EGP,observed_snapshot_anchor,true
+B0HGG5HQJF,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HGK5Q9VZ,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HGKV7MRQ,Headsets,2608.26,EGP,2608.26,EGP,observed_snapshot_anchor,true
+B0HGLJF4W1,Webcams,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0HGLYRFM2,Headphones and earpieces,814.71,EGP,814.71,EGP,observed_snapshot_anchor,true
+B0HGPRKCS3,Webcams,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0HGPY2P9B,Keyboards,4890.96,EGP,4890.96,EGP,observed_snapshot_anchor,true
+B0HGQV1BSM,Keyboard and mouse bundles,1738.66,EGP,1738.66,EGP,observed_snapshot_anchor,true
+B0HGR4SDYC,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HGXCJRT6,Webcams,1496.80,EGP,1496.80,EGP,observed_snapshot_anchor,true
+B0HH91G5ZD,Conference cameras,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0HH91R8GG,Headsets,2173.46,EGP,2173.46,EGP,observed_snapshot_anchor,true
+B0HH9DB658,Headsets,2451.73,EGP,2451.73,EGP,observed_snapshot_anchor,true
+B0HH9F61M3,Webcams,9782.46,EGP,9782.46,EGP,observed_snapshot_anchor,true
+B0HH9WVF4V,Webcams,1466.91,EGP,1466.91,EGP,observed_snapshot_anchor,true
+B0HHDZVMM7,Headsets,2172.91,EGP,2172.91,EGP,observed_snapshot_anchor,true
+B0HHFST8ZK,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HHJN38QC,Headsets,2309.33,EGP,2309.33,EGP,observed_snapshot_anchor,true
+B0HHLTJQCS,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HHM3PDYG,Headsets,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0HHMRDHFQ,Headsets,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0HHNF1B22,Mice and trackballs,1629.96,EGP,1629.96,EGP,observed_snapshot_anchor,true
+B0HHQMH2RQ,Webcams,542.96,EGP,542.96,EGP,observed_snapshot_anchor,true
+B0HHRZYSFL,Webcams,4347.46,EGP,4347.46,EGP,observed_snapshot_anchor,true
+B0HHSR8RYF,Keypads,488.61,EGP,488.61,EGP,observed_snapshot_anchor,true
+B0HJ26SVGV,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HJ2CZ7L2,Webcams,879.93,EGP,879.93,EGP,observed_snapshot_anchor,true
+B0HJ9SMQK8,Mice and trackballs,5977.96,EGP,5977.96,EGP,observed_snapshot_anchor,true
+B0HJB256T5,Mice and trackballs,9238.96,EGP,9238.96,EGP,observed_snapshot_anchor,true
+B0HJB4YPQJ,Mice and trackballs,5977.96,EGP,5977.96,EGP,observed_snapshot_anchor,true
+B0HJBWHWFF,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0HJFSHQYB,Webcams,,,2173.46,EGP,category_median_anchor,true
+B0HJNGN747,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HJQQZC7M,Webcams,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0HJQYRDMM,Mice and trackballs,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HJV4W3DJ,Headsets,2010.41,EGP,2010.41,EGP,observed_snapshot_anchor,true
+B0HJZPNQK4,Keyboard and mouse bundles,1086.46,EGP,1086.46,EGP,observed_snapshot_anchor,true
+B0HK3DJ8QR,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0HK3VJGDM,Webcams,1032.11,EGP,1032.11,EGP,observed_snapshot_anchor,true
+B0HK7PV41M,Headsets,3260.46,EGP,3260.46,EGP,observed_snapshot_anchor,true
+B0HLD3DMXK,Webcams,1140.81,EGP,1140.81,EGP,observed_snapshot_anchor,true
+B0HLMK4T5X,Headsets,5434.46,EGP,5434.46,EGP,observed_snapshot_anchor,true
+B0HM36S4KK,Headsets,3803.96,EGP,3803.96,EGP,observed_snapshot_anchor,true
+B0HMLB3S61,Headsets,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true
+B0HN1Z28QZ,Mice and trackballs,2716.96,EGP,2716.96,EGP,observed_snapshot_anchor,true

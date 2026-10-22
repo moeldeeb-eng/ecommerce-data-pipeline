@@ -1,0 +1,14 @@
+{
+  "engine": "PGlite PostgreSQL",
+  "baseline_lines": 10000,
+  "incremental_lines_per_batch": 100,
+  "first_append": "passed",
+  "repeat_noop": "passed",
+  "baseline_reload_after_append": "passed",
+  "warehouse_append_and_repeat": "passed",
+  "stale_batch_refusal": "passed",
+  "manifest_conflict_refusal": "passed",
+  "rollback_of_rows_metadata_ledger_and_watermark": "passed",
+  "second_append": "passed",
+  "historic_batch_repeat": "passed"
+}
