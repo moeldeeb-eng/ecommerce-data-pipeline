@@ -13,7 +13,7 @@ from dotenv import dotenv_values
 ROOT=Path(__file__).resolve().parents[2]
 sys.path.insert(0,str(ROOT/'src'/'load'))
 from load_store_data import check_database
-MODEL_VERSION='1.0.0'
+MODEL_VERSION='1.1.0'
 
 
 def build(cur,run_id):
@@ -27,9 +27,10 @@ def build(cur,run_id):
     print('Checking loaded source tables...',flush=True)
     source_result=check_database(cur,run_id,manifest['expected_counts'])
     cur.execute((ROOT/'sql/005_warehouse_schema.sql').read_text(encoding='utf-8'))
+    cur.execute((ROOT/'sql/011_location_reporting.sql').read_text(encoding='utf-8'))
     cur.execute('SELECT source_manifest_sha256,model_version FROM warehouse.build_runs WHERE run_id=%s',(run_id,))
     previous=cur.fetchone()
-    if previous and (previous[0].strip()!=source_hash.strip() or previous[1]!=MODEL_VERSION):
+    if previous and (previous[0].strip()!=source_hash.strip() or previous[1] not in ('1.0.0',MODEL_VERSION)):
         raise ValueError('Existing build uses a different source manifest or model version; migration required')
     cur.execute('CREATE TEMP TABLE _warehouse_context(run_id text PRIMARY KEY) ON COMMIT DROP')
     cur.execute('INSERT INTO _warehouse_context VALUES (%s)',(run_id,))
@@ -40,9 +41,9 @@ def build(cur,run_id):
         inserted.append(cur.rowcount)
         if not cur.nextset():
             break
-    if len(inserted)!=4 or any(n<0 for n in inserted):
+    if len(inserted)!=5 or any(n<0 for n in inserted):
         raise ValueError('Unexpected transformation SQL result sets')
-    added=dict(zip(['dim_date','dim_product','dim_customer','fact_sales'],inserted))
+    added=dict(zip(['dim_date','dim_product','dim_location','dim_customer','fact_sales'],inserted))
     counts={}
     for table,expected_key in [('dim_product','products'),('dim_customer','customers'),('fact_sales','order_items')]:
         cur.execute(sql.SQL('SELECT count(*) FROM warehouse.{} WHERE run_id=%s').format(sql.Identifier(table)),(run_id,))
@@ -62,6 +63,11 @@ def build(cur,run_id):
     print('Checking dimensions, every fact row and revenue reconciliation...',flush=True)
     cur.execute((ROOT/'sql/007_warehouse_quality.sql').read_text(encoding='utf-8'))
     invalid=dict(zip(['invalid_products','invalid_customers','invalid_sales','invalid_dates'],cur.fetchone()))
+    cur.execute("""SELECT count(*) FROM warehouse.dim_customer c
+        LEFT JOIN warehouse.dim_location l ON l.location_key=c.location_key
+        WHERE c.run_id=%s AND (l.location_key IS NULL OR
+        ROW(l.city,l.country) IS DISTINCT FROM ROW(c.city,c.country))""",(run_id,))
+    invalid['invalid_locations']=cur.fetchone()[0]
     if any(invalid.values()):
         raise ValueError(f'Warehouse quality failure: {invalid}')
     cur.execute('''SELECT count(*),count(DISTINCT order_id),sum(realized_quantity),sum(realized_net_amount)
@@ -75,7 +81,7 @@ def build(cur,run_id):
     if revenue!=source_revenue:
         raise ValueError('Warehouse realized revenue differs from completed store orders')
     cur.execute('''INSERT INTO warehouse.build_runs(run_id,source_manifest_sha256,model_version)
-                   VALUES (%s,%s,%s) ON CONFLICT (run_id) DO UPDATE SET checked_at_utc=CURRENT_TIMESTAMP''',
+                   VALUES (%s,%s,%s) ON CONFLICT (run_id) DO UPDATE SET checked_at_utc=CURRENT_TIMESTAMP, model_version=EXCLUDED.model_version''',
                 (run_id,source_hash,MODEL_VERSION))
     return dict(run_id=run_id,status='already_built' if previous and not any(added.values()) else 'built',
                 rows_added=added,counts=counts,quality=invalid,distinct_orders=order_count,
