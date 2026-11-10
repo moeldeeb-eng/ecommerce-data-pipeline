@@ -25,10 +25,17 @@ WHERE p.run_id=(SELECT run_id FROM _warehouse_context)
 AND NOT EXISTS (SELECT 1 FROM warehouse.dim_product d WHERE d.run_id=p.run_id AND d.asin=p.asin)
 ON CONFLICT (run_id,asin) DO NOTHING;
 
+INSERT INTO warehouse.dim_location (city,country)
+SELECT DISTINCT city,country FROM store.customers
+WHERE run_id=(SELECT run_id FROM _warehouse_context)
+ORDER BY country,city
+ON CONFLICT (country,city) DO NOTHING;
+
 INSERT INTO warehouse.dim_customer
- (run_id,customer_id,customer_name,email,city,country,registered_at_utc,is_synthetic)
-SELECT c.run_id,c.customer_id,c.customer_name,c.email,c.city,c.country,c.registered_at_utc,c.is_synthetic
+ (run_id,customer_id,customer_name,email,city,country,registered_at_utc,is_synthetic,location_key)
+SELECT c.run_id,c.customer_id,c.customer_name,c.email,c.city,c.country,c.registered_at_utc,c.is_synthetic,l.location_key
 FROM store.customers c
+JOIN warehouse.dim_location l ON l.city=c.city AND l.country=c.country
 WHERE c.run_id=(SELECT run_id FROM _warehouse_context)
 AND NOT EXISTS (SELECT 1 FROM warehouse.dim_customer d WHERE d.run_id=c.run_id AND d.customer_id=c.customer_id)
 ON CONFLICT (run_id,customer_id) DO NOTHING;
